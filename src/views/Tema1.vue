@@ -553,7 +553,7 @@
             img(src="@/assets/curso/tema1/fondo2.jpg")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-7.col-sm-10.col-10.ps-0
         h3.mb-0.ms-0.margentitulo2  Costos de la DFI
-    img(data-aos="fade-down")(src="@/assets/curso/tema1/imagen14.jpg")
+    img(data-aos="fade-down")(src="@/assets/curso/tema1/imagen15.jpg")
     p.mt-5(data-aos="fade") Corresponden a los costos asociados a la Distribución Física Internacional en torno a situar el producto en el mercado internacional, con los términos preestablecidos de la negociación en el Incoterms. Estos costos varían por el país exportador, las rutas de tránsito internacional y el país importador. Cada país tiene políticas y monedas diferentes, por ende, sus costos son distintos. Esta información deberá ser suministrada por el usuario de la plataforma incluyendo los costos asociados. 
 </template>
 <script>
