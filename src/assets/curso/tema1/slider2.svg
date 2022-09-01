@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="114.801" height="82.208" viewBox="0 0 114.801 82.208">
+  <g id="camion" transform="translate(0 -72.679)">
+    <g id="Grupo_83418" data-name="Grupo 83418" transform="translate(1.913 82.246)">
+      <path id="Trazado_144501" data-name="Trazado 144501" d="M359.587,222.913h11.48V201.866l-17.22-26.787H332.8v47.834h7.653" transform="translate(-260.093 -161.686)" fill="#ff7758"/>
+      <path id="Trazado_144502" data-name="Trazado 144502" d="M23.84,176.573H8.533V115.346H81.24v61.227H42.973" transform="translate(-8.533 -115.346)" fill="#ffba5b"/>
+    </g>
+    <g id="Grupo_83419" data-name="Grupo 83419" transform="translate(1.913 133.906)">
+      <rect id="Rectángulo_31158" data-name="Rectángulo 31158" width="11.48" height="3.827" transform="translate(0 0)" fill="#f46b27"/>
+      <rect id="Rectángulo_31159" data-name="Rectángulo 31159" width="34.44" height="3.827" transform="translate(38.267 0)" fill="#f46b27"/>
+    </g>
+    <rect id="Rectángulo_31160" data-name="Rectángulo 31160" width="7.653" height="3.827" transform="translate(105.234 133.906)" fill="#dbdbdb"/>
+    <rect id="Rectángulo_31161" data-name="Rectángulo 31161" width="66.967" height="3.827" transform="translate(7.653 87.986)" fill="#f46b27"/>
+    <g id="Grupo_83420" data-name="Grupo 83420" transform="translate(17.22 133.906)">
+      <circle id="Elipse_4299" data-name="Elipse 4299" cx="9.567" cy="9.567" r="9.567" transform="translate(0 0)" fill="#126099"/>
+      <circle id="Elipse_4300" data-name="Elipse 4300" cx="9.567" cy="9.567" r="9.567" transform="translate(65.054 0)" fill="#126099"/>
+    </g>
+    <g id="Grupo_83421" data-name="Grupo 83421" transform="translate(0 72.679)">
+      <rect id="Rectángulo_31162" data-name="Rectángulo 31162" width="3.827" height="3.827" transform="translate(24.873 68.881)" fill="#dbdbdb"/>
+      <rect id="Rectángulo_31163" data-name="Rectángulo 31163" width="3.827" height="3.827" transform="translate(89.928 68.881)" fill="#dbdbdb"/>
+      <rect id="Rectángulo_31164" data-name="Rectángulo 31164" width="26.787" height="3.827" transform="translate(7.653)" fill="#dbdbdb"/>
+      <rect id="Rectángulo_31165" data-name="Rectángulo 31165" width="3.827" height="3.827" fill="#dbdbdb"/>
+    </g>
+    <path id="Trazado_144503" data-name="Trazado 144503" d="M385.244,209.213H366.933v17.22h29.389Z" transform="translate(-284.659 -105.92)" fill="#87ced9"/>
+    <path id="Trazado_144504" data-name="Trazado 144504" d="M396.322,230.074l-10.389-16.168a47.976,47.976,0,0,1-19,13.68v2.487h29.389Z" transform="translate(-284.659 -109.561)" fill="#6cbbc7"/>
+    <path id="Trazado_144505" data-name="Trazado 144505" d="M97.275,121.086a1.917,1.917,0,0,0-1.607-.88H76.534v-11.48a1.914,1.914,0,0,0-1.913-1.913H1.913A1.914,1.914,0,0,0,0,108.726v61.227a1.914,1.914,0,0,0,1.913,1.913H15.479a11.48,11.48,0,0,0,22.616,0H80.533a11.48,11.48,0,0,0,22.616,0h9.739a1.914,1.914,0,0,0,1.913-1.913V148.907a1.9,1.9,0,0,0-.306-1.033Zm2.219,10.6,8.667,13.393H84.187V131.686Zm-72.707,45.92a7.653,7.653,0,1,1,7.653-7.653A7.654,7.654,0,0,1,26.787,177.607Zm0-19.133a11.479,11.479,0,0,0-11.308,9.567H3.827v-3.827h9.567v-3.827H3.827V110.64H72.707v3.827H7.653v3.827H72.707v42.094H40.18v3.827H72.707v3.827H38.095A11.481,11.481,0,0,0,26.787,158.473Zm65.054,19.133a7.653,7.653,0,1,1,7.653-7.653A7.654,7.654,0,0,1,91.841,177.607Zm11.308-9.567a11.48,11.48,0,0,0-22.616,0h-4V124.033H94.615l2.468,3.827H82.274a1.914,1.914,0,0,0-1.913,1.913v17.22a1.914,1.914,0,0,0,1.913,1.913h28.337l.363.555v10.925h-5.74v3.827h5.74v3.827h-7.826Z" transform="translate(0 -26.48)"/>
+    <rect id="Rectángulo_31167" data-name="Rectángulo 31167" width="3.827" height="3.827" transform="translate(24.873 141.56)"/>
+    <rect id="Rectángulo_31168" data-name="Rectángulo 31168" width="3.827" height="3.827" transform="translate(89.928 141.56)"/>
+    <rect id="Rectángulo_31169" data-name="Rectángulo 31169" width="26.787" height="3.827" transform="translate(7.653 72.679)"/>
+    <rect id="Rectángulo_31170" data-name="Rectángulo 31170" width="3.827" height="3.827" transform="translate(0 72.679)"/>
+  </g>
+</svg>
