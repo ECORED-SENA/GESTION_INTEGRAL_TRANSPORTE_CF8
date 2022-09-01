@@ -293,7 +293,7 @@
             p.mt-3.ms-3 Los valores deben ser consultados en cada terminal portuaria, ya que las tarifas pueden variar debido a su tecnología, infraestructura y demanda.  En el siguiente documento podrás consultar un ejemplo de las tarifas portuarias del puerto de Cartagena
             .row.justify-content-center
               .col-xxl-8.col-xl-8.col-lg-8.col-md-8.col-sm-9.col-11
-                a.anexo.mb-4(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                a.anexo.mb-4(:href="obtenerLink('downloads/Anexo1_TarifasPortuarias.pdf')" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")
                   .anexo__texto
