@@ -293,21 +293,24 @@ export default {
       referencia:
         'Cámara de comercio de Bogotá. (2019). Guía práctica costeo de una exportación e importación.',
       tipo: 'Cartilla',
-      link: '/downloads/Anexo4_GuíaPracticaCosteo.pdf',
+      link:
+        '/GESTION_INTEGRAL_TRANSPORTE_CF8/downloads/Anexo4_GuíaPracticaCosteo.pdf',
     },
     {
       tema: 'Guía practica para la elaboración de Presupuestos',
       referencia:
         'Sepúlveda, M. (2006). Guía practica para la elaboración de Presupuestos. [Tesis pregrado]',
       tipo: 'Tesis',
-      link: '/downloads/Anexo7_Guia_practica_presupuesto.pdf',
+      link:
+        '/GESTION_INTEGRAL_TRANSPORTE_CF8/downloads/Anexo7_Guia_practica_presupuesto.pdf',
     },
     {
       tema: 'Guía para la elaboración del Presupuesto: Operación e Inversión.',
       referencia:
         'Uniminuto. (). Guía para la elaboración del Presupuesto: Operación e Inversión.',
       tipo: 'Guía',
-      link: '/downloads/Anexo8_GuiaElaboracionPresupuesto.pdf',
+      link:
+        '/GESTION_INTEGRAL_TRANSPORTE_CF8/downloads/Anexo8_GuiaElaboracionPresupuesto.pdf',
     },
     {
       tema: 'Tabla básica carga aérea.',
