@@ -285,7 +285,7 @@ export default {
       referencia:
         'Viaña, L. (2014). Manual de costos y presupuestos. Institución Universitaria ITSA.',
       tipo: 'Manual',
-      link: '../downloads/Anexo6_ManualCostosPresupuestos.pdf',
+      link: '/public/downloads/Anexo6_ManualCostosPresupuestos.pdf',
     },
     {
       tema: 'Guía práctica costeo de una exportación e importación.',
