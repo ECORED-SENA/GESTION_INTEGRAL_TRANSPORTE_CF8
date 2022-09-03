@@ -16,7 +16,7 @@
     .row(data-aos="fade-down-right")
       .col-xxl-12
         img(src='@/assets/curso/tema1/imagen1.jpg')
-        p.my-5 Las tarifas son aquellos precios que pagan los usuarios o clientes por la prestación de un servicio, sin embargo, para evitar arbitrariedades de los prestadores, el Ministerio de Transporte en ejercicio de su función de dirección y tutela administrativa del Sector y del Sistema Nacional del Transporte, con la Superintendencia de Transporte, tienen como  función  vigilar, inspeccionar y controlar la permanente, eficiente y segura prestación del servicio de transporte. Por ello establecen el marco normativo que se presenta a continuación.
+        p.my-5 Las tarifas son aquellos precios que pagan los usuarios o clientes por la prestación de un servicio, sin embargo, para evitar arbitrariedades de los prestadores, el Ministerio de Transporte en ejercicio de su función de dirección y tutela administrativa del sector y del Sistema Nacional del Transporte, con la Superintendencia de Transporte, tienen como  función  vigilar, inspeccionar y controlar la permanente, eficiente y segura prestación del servicio de transporte. Por ello establecen el marco normativo que se presenta a continuación.
     separador
     #regulacion.titulo-segundo.colorsubtitulo(data-aos="fade-down-left")
       h2 1.1 Regulación
@@ -57,20 +57,19 @@
               p.text-bold.mb-0 Normas vigentes
               p En el siguiente enlace se pueden consultar las normas vigentes en materia del transporte de carga,  que permiten  validar todas aquellas disposiciones gubernamentales frente al ejercicio de transporte de carga. Es importante resaltar que se incluyen los temas aduaneros, restricciones, documentos y demás relacionados.
               .row.justify-content-center
-                .col-xxl-11.col-xl-11.col-lg-12.col-md-12.col-sm-12.col-12.ps-0.pe-3
+                .col-xxl-6.col-xl-6.col-lg-6.col-md-6.col-sm-6.col-6.ps-0.pe-3
                   a.anexo.mb-4.mb-lg-0(href="https://zonalogistica.com/herramientas/normatividad-vigente-en-transporte-terrestre-de-carga/" target="_blank")
                     .anexo__icono
                       img(src="@/assets/template/icono-link.svg")
                     .anexo__texto
-                      p.mb-0 Enlace web. Normas vigentes
-                      p.nomostrar1 https://zonalogistica.com/herramientas/normatividad-vigente-en-transporte-terrestre-de-carga/
+                      p.mb-0 Normas vigentes
     separador
     #tarifasnal.titulo-segundo.colorsubtitulo(data-aos="fade-down-right")
       h2 1.2 Tarifas del transporte nacionales
     .row.justify-content-center
       .col-xxl-5.col-xl-5.col-lg-6.col-md-12(data-aos="fade-down-right")
         p Para el establecimiento de tarifas es importante considerar aspectos como Índice de Precios del Consumidor (IPC), que es un índice registrado por el Departamento Administrativo Nacional de Estadística (DANE), obtenido de los precios y cantidades consumidas, este se calcula mensual y anualmente. 
-        p A continuación se presentan las tarifas para pasajeros y carga, un resumen o recuento de los aspectos más relevantes para conocer la estructura de las tarifas en los diferentes servicios, considerando que todas las tarifas o fletes contienen costos operativos, seguros e impuestos.
+        p A continuación, se presentan las tarifas para pasajeros y carga, un resumen o recuento de los aspectos más relevantes para conocer la estructura de las tarifas en los diferentes servicios, considerando que todas las tarifas o fletes contienen costos operativos, seguros e impuestos.
       .col-xxl-7.col-xl-7.col-lg-6.col-md-12(data-aos="fade-down-left")
         img(src="@/assets/curso/tema1/imagen2.png")
     .row.my-4.align-items-center(data-aos="fade-down-right")
@@ -92,7 +91,7 @@
 
           .col-xl-6
             p Se realiza el análisis de las tarifas del servicio de transporte público,  en el radio de acción metropolitano, éste dato hace referencia al valor pagado por los clientes para el transporte colectivo ordinario, el individual (taxi) y el masivo, desde los años 1998 hasta el 2015. 
-            p La tarifa mínima esta en el colectivo y la máxima en el individual, esto genera  unos topes en el mercado, y se puede identificar los precios que pueden pagar los clientes.
+            p La tarifa mínima está en el colectivo y la máxima en el individual, esto genera  unos topes en el mercado, y se puede identificar los precios que pueden pagar los clientes.
       
       .tarjeta.fondo3.p-4(titulo="Proyección de salario mínimo")
         h4 Proyección de salario mínimo
@@ -110,7 +109,7 @@
             figure
               img(src='@/assets/curso/tema1/imagen5.jpg')
           .col-xl-6
-            p Se tienen presentes los costos de las varíales de operación  como: combustibles, lubricantes, llantas, salarios y prestaciones, servicios, mantenimientos; 
+            p Se tienen presentes los costos de las variales de operación  como: combustibles, lubricantes, llantas, salarios y prestaciones, servicios, mantenimientos; 
             p Los costos fijos como la administración, rodamientos, impuestos, parqueadero y seguros.
             p Finalmente el capital que genere rentabilidad. 
       
@@ -134,7 +133,7 @@
             ul.lista-ul
               li 
                 i.fas.fa-angle-right
-                | La resolución 315 de 2013. 
+                | La Resolución 315 de 2013. 
               li
                 i.fas.fa-angle-right
                 | El artículo 1 de la resolución 378 de 2013, artículos 1° Revisión técnico-mecánica, 2° Revisión y Mantenimiento de los vehículos, 3° Mantenimiento de vehículos y 4°. Protocolo de alistamiento.     
@@ -142,7 +141,7 @@
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mb-4(data-aos="fade-down-right")
         img(src='@/assets/curso/tema1/imagen8.jpg')
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12(data-aos="fade-down-left")
-        p Como se puede evidenciar, independientemente de los datos, la metodología considera los aspectos más relevantes para la determinación del punto de equilibrio económico entre la oferta y la demanda, porque se consideran aspectos económicos que caracterizan a los usuarios y a los empresarios del transporte. Esta misma estructura puede emplearse para el transporte de carga, donde se pueden utilizar variables similares, en este caso los usuarios son los clientes y los transportadores son los operadores logísticos, sin embargo la tarifa también presenta algunas variantes como los impuestos, aduanas, servicios en terminales, cargue y descargue, almacenajes y si el transporte de carga es nacional o internacional.
+        p Como se puede evidenciar, independientemente de los datos, la metodología considera los aspectos más relevantes para la determinación del punto de equilibrio económico entre la oferta y la demanda, porque se consideran aspectos económicos que caracterizan a los usuarios y a los empresarios del transporte. Esta misma estructura puede emplearse para el transporte de carga, donde se pueden utilizar variables similares, en este caso los usuarios son los clientes y los transportadores son los operadores logísticos, sin embargo, la tarifa también presenta algunas variantes como los impuestos, aduanas, servicios en terminales, cargue y descargue, almacenajes y si el transporte de carga es nacional o internacional.
     .row.my-4.align-items-center(data-aos="fade-down-right")
       .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-1.col-2
         .row
@@ -160,7 +159,7 @@
             p Hay libertad tarifaria establecida por norma, esto quiere decir que las empresas tienen la 
               span.resaltado.text-bold libertad de cobrar dependiendo del servicio que prestan y la comodidad de su parque automotor. 
             p No es lo mismo trasladarse en un bus último modelo con baño y aire acondicionado, que trasladarse en un microbús con menos espacio en las sillas y sin acceso al baño. 
-            p Así haya liberad tarifaria, hay límites y los usuarios pueden denunciar abusos. El Ministerio de Transporte dentro de su régimen tarifario ha establecido que el valor del mes, resulta de multiplicar el valor total de kilómetros ($/km) por kilómetros recorridos en el mes. Es decir, los costos totales de la operación y los kilómetros recorridos en el mes. El valor del pasajero se obtiene dividiendo el valor mensual entre el número de pasajeros movilizados al mes, son los parámetros que establecen los límites para el cobro de tarifas. 
+            p Así haya libertad tarifaria, hay límites y los usuarios pueden denunciar abusos. El Ministerio de Transporte dentro de su régimen tarifario ha establecido que el valor del mes, resulta de multiplicar el valor total de kilómetros ($/km) por kilómetros recorridos en el mes. Es decir, los costos totales de la operación y los kilómetros recorridos en el mes. El valor del pasajero se obtiene dividiendo el valor mensual entre el número de pasajeros movilizados al mes, son los parámetros que establecen los límites para el cobro de tarifas. 
             .row.justify-content-center.align-items-center.my-5
               .col-xxl-3.col-xl-3.col-lg-3.col-md-3.col-sm-3.col-4.pe-2
                 span.mb-4.resaltado.text-bold Valor pasajero=
@@ -182,7 +181,7 @@
             h4 Transporte aéreo
             p Es el modo de transporte más costoso, porque los costos operativos de los vehículos son altos, el combustible requiere de más octanaje, es decir que posee otras propiedades adicionales al combustible normal.
             p La inversión para la infraestructura es mayor, ya que requiere áreas amplias y construcciones civiles complejas en sus terminales aéreas, especialmente en ciudades capitales y de conexión con diferentes rutas.
-            p El costo de la tarifa del pasaje o precio de los tiquetes aéreos se basa en la gestión de ingreso, que esta determinada por
+            p El costo de la tarifa del pasaje o precio de los tiquetes aéreos se basa en la gestión de ingreso, que está determinada por:
             .row.mb-5
               .col-md-3.col-sm-6.col-6.col-lg.mb-5.mb-lg-0
                 .tarjeta-avatar
@@ -290,6 +289,7 @@
           .col-xxl-1.col-xl-1.col-lg-2.col-md-2.col-sm-2.col-3.ps-4.ps-sm-4.ps-xl-0
             img(src='@/assets/curso/tema1/dinero.svg')
           .col-xxl-10.col-xl-10.col-lg-10.col-md-10.col-sm-10.col-9
+            h4.mt-4 Tarifas portuarias.
             p.mt-3.ms-3 Los valores deben ser consultados en cada terminal portuaria, ya que las tarifas pueden variar debido a su tecnología, infraestructura y demanda.  En el siguiente documento podrás consultar un ejemplo de las tarifas portuarias del puerto de Cartagena
             .row.justify-content-center
               .col-xxl-8.col-xl-8.col-lg-8.col-md-8.col-sm-9.col-11
@@ -298,7 +298,7 @@
                     img(src="@/assets/template/icono-pdf.svg")
                   .anexo__texto
                     p Anexo. Tarifas portuarias        
-    .row.my-4.align-items-center(data-aos="fade-down-left")
+    .row.my-5.align-items-center(data-aos="fade-down-left")
       .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-1.col-1
         .row
           .col-xxl-7.col-xl-7.col-lg-7.col-md-8.col-sm-10.col-12
@@ -332,15 +332,14 @@
               .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-1.col-1
                 img(src="@/assets/curso/tema1/imagen12.svg")
               .col-xxl-10.col-xl-10.col-lg-10.col-md-10.col-sm-10.col-10.pt-4.pt-sm-0
-                p Puede consultar aquí las tarifas vigentes de TCC:
+                p.pe-5.me-2 Puede consultar aquí las tarifas vigentes de TCC: 
             .row.justify-content-center.px-0
-              .col-xxl-12.ps-0.pe-3
+              .col-xxl-8.ps-0.pe-3
                 a.anexo.mb-4.mb-lg-0(href="https://www.dhl.com/co-es/home/nuestras-divisiones/transporte-de-envios/transporte-aereo/cotizacion-de-transporte-aereo.html" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
                     p.mb-0 Enlace web 
-                      span.nomostrar2 https://tcc.com.co/courier/paqueteria-productos-y-servicios/tarifa-carga-aerea/
       .col-xxl-5.col-xl-5.col-lg-6.col-md-9.col-12.mb-4(data-aos="flip-left")
         .crd_hover_txt
           .crd_hover_txt--img
@@ -354,13 +353,12 @@
               .col-xxl-10.col-xl-10.col-lg-10.col-md-10.col-sm-10.col-10
                 p Es una empresa que presta el servicio de cotización en línea, donde el usuario podrá cotizar el servicio colocando los datos de la carga que necesita transportar y las características físicas como tamaño, peso y número de piezas, origen y destino con códigos postales cotizar el servicio.
             .row.justify-content-center.px-0
-              .col-xxl-12.ps-0.pe-3
+              .col-xxl-8.ps-0.pe-3
                 a.anexo.mb-4.mb-lg-0(href="https://www.dhl.com/co-es/home/nuestras-divisiones/transporte-de-envios/transporte-aereo/cotizacion-de-transporte-aereo.html" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
                     p.mb-0 Enlace web 
-                      span.nomostrar2 https://www.dhl.com/co-es/home/nuestras-divisiones/transporte-de-envios/transporte-aereo/cotizacion-de-transporte-aereo.html
     p.my-5(data-aos="fade-down-left") El valor del flete se calcula teniendo en cuenta el peso de la carga:
     .row.justify-content-center(data-aos="fade-down-right")
       .col-md-6
@@ -379,13 +377,13 @@
           .col-xxl-2.col-xl-2.col-lg-2.col-md-2.col-sm-2.col-2
             img.mb-5(src="@/assets/curso/tema1/icono2.svg")
           .col-xxl-10.col-xl-10.col-lg-10.col-md-10.col-sm-10.col-10
-            h4.mb-5.mt-4 Tarifas Mercancías específicas.
+            h4.mb-5.mt-4 Tarifas mercancías específicas
             hr
         .row.align-items-center
           .col-xxl-2.col-xl-2.col-lg-2.col-md-2.col-sm-2.col-2
             img.mb-5(src="@/assets/curso/tema1/icono3.svg")
           .col-xxl-10.col-xl-10.col-lg-10.col-md-10.col-sm-10.col-10
-            h4.mb-5.mt-4 Tarifa de carga unitarizada.
+            h4.mb-5.mt-4 Tarifa de carga unitarizada
             hr
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12
         img(src="@/assets/curso/tema1/imagen13.jpg")
@@ -396,25 +394,23 @@
             img(src="@/assets/curso/tema1/fondo3.svg")
       .col-xxl-9.col-xl-9.col-lg-9.col-md-9.col-sm-10.col-10.ps-0
         h4.mb-0.ms-0.margentitulo Transporte automotor de carga
-    p(data-aos="fade-down-right") para este sistema de transporte se cuenta con una plataforma interactiva, creada por el Ministerio de transporte conocida como SICE-TAC que es una herramienta del sistema de información para el transporte automotor de carga.
+    p(data-aos="fade-down-right") Para este sistema de transporte se cuenta con una plataforma interactiva, creada por el Ministerio de transporte conocida como SICE-TAC que es una herramienta del sistema de información para el transporte automotor de carga.
 
     .row.justify-content-center.mt-5(data-aos="fade-down-left")
       .col-xxl-10.col-xl-10.col-lg-10.col-md-12.fondo1
         .row
-          .col-xxl-2.col-xl-2.col-lg-2.col-md-0.col-sm-0.col-0.ps-5.pt-5
+          .col-xxl-2.col-xl-2.col-lg-2.col-md-0.col-sm-0.col-0.ps-5.pt-3
             img.nomostrar(src="@/assets/curso/tema1/slider1.svg")
           .col-xxl-10.col-xl-10.col-lg-10.col-md-12.col-sm-12.col-12.p-3
             p A continuación podrás ingresar al Sistema de Información de Costos Eficientes para el Transporte Automotor de Carga SICE-TAC
             .row.justify-content-center
-              .col-xxl-11.col-xl-11.col-lg-12.col-md-12.col-sm-12.col-12.ps-0.pe-3
+              .col-xxl-5.col-xl-5.col-lg-5.col-md-6.col-sm-6.col-6.ps-0.pe-3
                 a.anexo.mb-4.mb-lg-0(href="https://www.mintransporte.gov.co/publicaciones/359/sistema_de_informacion_de_costos_eficientes_para_el_transporte_automotor_de_carga_sicetac/" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
                     p.mb-0.text-bold Enlace web.
-                    p.nomostrar3 https://www.mintransporte.gov.co/publicaciones/359/sistema_de_
-                    |informacion_de_costos_eficientes_para_el_transporte_automotor_
-                    |de_carga_sicetac/
+
     p.my-5(data-aos="fade-down-right") A través del observatorio de transporte de carga y las asociaciones gremiales del sector, en una mesa técnica validaron y actualizaron la herramienta donde se establecieron variables, componentes y costos para parametrizar de forma más adecuada la herramienta considerando las diferentes configuraciones vehiculares y los diferentes tipos de carga: Contenerizada, general, refrigerada y gráneles sólidos, permitiendo 12 combinaciones así como se observa en la tabla 1:
     .titulo-sexto.color-acento-contenido(data-aos="fade-down-left")
       h5 Tabla 1. 

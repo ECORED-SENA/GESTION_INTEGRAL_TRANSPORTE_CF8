@@ -180,7 +180,7 @@
             span.text-bold “centros de costos” 
             span a medida que se van utilizando, se ingresan y se determinan por su tipo, por ejemplo: 
             span.text-bold personal, combustibles, servicios, capacitaciones.
-          p.ms-4 En caso de que la empresa no cuente con un sistema de información que recopile y haga de forma adecuada el seguimiento a los costos, es necesario por lo menos durante un mes, establecer el costeo de lo necesario para la operación, registrando uno a uno los costos y luego se valida cuáles son fijos y variables. Así, al determinar la producción e inversión generada durante el mes, se establece el balance  y se identifica la materialización de las metas. 
+          p.ms-4 En caso de que la empresa no cuente con un sistema de información que recopile y haga de forma adecuada el seguimiento a los costos, es necesario por lo menos durante un mes, establecer el costo de lo necesario para la operación, registrando uno a uno los costos y luego se valida cuáles son fijos y variables. Así, al determinar la producción e inversión generada durante el mes, se establece el balance  y se identifica la materialización de las metas. 
       .row(titulo="Considerar recursos para imprevistos")
         .col-md-12.mb-4.mb-md-0.ps-5
           p.ms-4 Dentro de los presupuestos, es recomendable establecer una reserva para los imprevistos, se pueden determinar como un porcentaje sobre el presupuesto total o con el histórico de imprevistos, que se hayan generado por circunstancias similares en la operación. 
@@ -203,7 +203,7 @@
           p.ms-4 Se refleja en cifras los ingresos y egresos durante un período determinado, por tipos de gastos y tipos de ingresos.
       .row(titulo="Resumir el presupuesto")
         .col-md-12.mb-4.mb-md-0.ps-5
-          p.ms-4 El resumen corresponde a la generación de un plan que integra, consolida y coordina en términos financieros las operaciones realizadas y los recursos empleados para desarrollarlas, durante un tiempo determinado. Es reflejo de las cifras resumidas para fácil interpretación y compresión de los directivos.
+          p.ms-4 El resumen corresponde a la generación de un plan que integra, consolida y coordina en términos financieros las operaciones realizadas y los recursos empleados para desarrollarlas, durante un tiempo determinado. Es reflejo de las cifras resumidas para fácil interpretación y comprensión de los directivos.
     .row.my-4.align-items-center(data-aos="fade-down-left")
       .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-1.col-2
         .row
@@ -254,6 +254,7 @@
     separador
     #t_2_4.titulo-segundo.colorsubtitulo(data-aos="fade-down-right")
       h2 2.4 Tipos de presupuestos en empresas
+    p.my-5 Existen varios tipos de presupuestos que pueden contener información o estructura semejante, pero que dependiendo de la actividad económica y finalidad de este, se presenta de forma particular. A continuación se pueden conocer:
     SlyderF(data-aos="fade").my-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.fondo14.p-4.sizetarjeta.mb-3
         .row.justify-content-center.mb-3

@@ -21,25 +21,25 @@
             figure
               img(src='@/assets/curso/tema3/fig1.svg', alt='Costos en una cadena de suministro')
           .tarjeta.fondo12.p-3(x="33%" y="23%" numero="1")
-            .h5.mb-2 1. Aprovisionamiento: 
+            .h5.mb-2 1. Aprovisionamiento 
             p Este costo hace referencia al precio de tener el producto terminado, es decir el valor que se invirtió para producirlo y terminarlo, sin intermediarios. 
           .tarjeta.fondo12.p-3(x="36.8%" y="43.3%" numero="2")
-            .h5.mb-2 2. Almacenaje:
-            p Es el costo del uso de un espacio para guardar el producto, en el tiempo en que dura reservado para su transporte y posterior entrega. Puede haber almacenaje al terminarlo de producir y antes de entregar a su destinatario. Este costo es conformado por valores como uso de un bien inmueble, servicios, climatización, etc. 
+            .h5.mb-2 2. Almacenaje
+            p Es el costo del uso de un espacio para guardar el producto, en el tiempo en que dura reservado para su transporte y posterior entrega. Puede haber almacenaje al terminarlo de producir y antes de entregar a su destinatario. Este costo está conformado por valores como uso de un bien inmueble, servicios, climatización, etc. 
           .tarjeta.fondo12.p-3(x="50.8%" y="55%" numero="3")
-            .h5.mb-2 3. Transporte interno:
+            .h5.mb-2 3. Transporte interno
             p Es el transporte que se emplea de forma interna, es decir antes de ser entregado a su cliente final. Ejemplo: traslado de mercancías desde fábrica hasta almacén de cadena. 
           .tarjeta.fondo12.p-3(x="63%" y="44.5%" numero="4")
-            .h5.mb-2 4. Transporte externo:
+            .h5.mb-2 4. Transporte externo
             p Es el costo asociado al transporte del cliente final. Este costo puede ser subcontratado o propio, dependiendo de la capacidad de la empresa. 
           .tarjeta.fondo12.p-3(x="67.6%" y="23%" numero="5")
-            .h5.mb-2 5. Costos por baja calidad o devoluciones:
+            .h5.mb-2 5. Costos por baja calidad o devoluciones
             p Es importante considerar este costo ya que, si el cliente no está de acuerdo con el producto por defectuoso o porque no cumple con las expectativas de compra, el vendedor deberá considerar acarrear con este y volver a entregar el producto. Normalmente se considera un porcentaje de pérdidas, sobre los demás costos para incluir este valor.
     .row.justify-content-center.my-4
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mb-4(data-aos="fade-down-left")
           img(src='@/assets/curso/tema3/imagen2.jpg')
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12(data-aos="fade-down-right")
-        p La cadena logística es fundamental en la Gestión logística internacional, porque permite la planeación y el seguimiento constante y estratégico del proceso para la distribución de los productos o materias primas necesarias para las operaciones, dando origen a las exportaciones e importaciones que son las relaciones comerciales con otros países y fortalecimiento de la economía del país.
+        p La cadena logística es fundamental en la <i>Gestión logística internacional</i>, porque permite la planeación y el seguimiento constante y estratégico del proceso para la distribución de los productos o materias primas necesarias para las operaciones, dando origen a las exportaciones e importaciones que son las relaciones comerciales con otros países y fortalecimiento de la economía del país.
         p Para que esta gestión sea eficiente es indispensable que los costos y los tiempos de transporte sean reducidos, porque este valor incluye en costo final del producto, se debe recordar que, a nivel internacional, se compite con productos similares. Si su costo es elevado y su tiempo de entrega es poco eficiente, no entrará a competir. 
     .row.justify-content-center
       .col-xxl-3.col-xl-3.col-lg-3.col-md-8.col-sm-8.col-10.mb-4(data-aos="fade-down-left")
@@ -78,7 +78,7 @@
       .row
         .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mb-4.mb-md-0
           h4 Exportador
-          p Es quien presta el servicio de envío de la mercancía y debe garantizar que el producto cumpla con las normas, certificaciones requeridas para su comercialización a nivel nacional e internacional. y con los requisitos del cliente. En el Incoterm, se define al responsable de gestionar el transporte de carga para que llegue al sitio acordado con el cliente. Debe tramitar toda la documentación necesaria para la exportación y realiza el proceso de empaque.
+          p Es quien presta el servicio de envío de la mercancía y debe garantizar que el producto cumpla con las normas, certificaciones requeridas para su comercialización a nivel nacional e internacional. y con los requisitos del cliente. En el Incoterm, se define al responsable de gestionar el transporte de carga para que llegue al sitio acordado con el cliente. Debe tramitar toda la documentación necesaria para la exportación y realizar el proceso de empaque.
       
         .col-xxl-6.col-xl-6.col-lg-6.col-md-12
           figure

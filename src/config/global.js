@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Presupuesto de la operación.',
+    componenteFormativo: 'Presupuesto de la operación',
     descripcionCurso:
       'Este componente tiene como propósito desarrollar habilidades necesarias para identificar, elaborar, verificar y ajustar los presupuestos desde su planeación, materialización y evaluación de resultados, destacando la importancia de estos dentro de cualquier tipo de trabajo, labor o proyecto a ejecutar.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
@@ -133,7 +133,7 @@ export default {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Matriz de decisión: Exportación',
+        titulo: 'Matriz de decisión: exportación',
         desarrolloContenidos: true,
       },
     ],
@@ -332,10 +332,9 @@ export default {
     },
     {
       tema: 'Simulador de costos logísticos.',
-      referencia: 'Procolombia. (2021). Simulador de costos logísticos. ',
+      referencia: 'Connectamericas. (2022). <i>Transport Cost Estimator</i>.',
       tipo: 'Simulador',
-      link:
-        'http://simuladordecostos.procolombia.co/dfi/master.html#/autenticacion ',
+      link: 'https://connectamericas.com/es/estimadora#!/app/search',
     },
     {
       tema: 'Elaboración de un presupuesto.',
@@ -391,25 +390,24 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Sofía Suárez Suárez',
+        nombre: 'Juan Carlos Tapias Rueda',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
-      /*{
+      {
         nombre: 'Jorge Enrique Haylock Calderín',
         cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Zuleidy Maria Ruiz Torres',
         cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },*/
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
       {
-        nombre: 'Daniel Polanco',
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

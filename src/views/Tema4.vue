@@ -6,7 +6,7 @@
     .titulo-principal.color-acento-contenido(data-aos="fade")
       .titulo-principal__numero
         span.text-dark 4
-      h1 Matriz de decisión: Exportación
+      h1 Matriz de decisión: exportación
 
     img(data-aos="fade-down-left")(src="@/assets/curso/tema4/imagen1.jpg")
     p.my-5(data-aos="fade-down-right") Es un gráfico que refleja la relación entre cierta información sensible para la toma de decisiones, permitiendo analizar e identificar los datos de forma conjunta. Esta herramienta es muy empleada para la planificación con calidad y para seleccionar un producto o un servicio, ya que se comparan las características, los objetivos, y procesos entre varias alternativas.
