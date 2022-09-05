@@ -12,7 +12,7 @@
           span.resaltado.text-bold “presupuesto maestro”
           span ; si la empresa ya tiene varios años trabajando y ha organizado bien sus gastos o costos de operación, se hace más sencillo la proyección de las metas para el año siguiente, ya que hay aspectos de orden económico que le dan las pautas como la inflación, los ajustes anuales de salarios mínimos, los índices de ingreso bruto nacionales de sectores económicos, incrementos particulares de ciertos productos para elaboración o materia prima, costos de importación o exportación, etc. 
           p El presupuesto maestro contempla todo el presupuesto de la organización de forma macro; cada área o departamento puede tener su propio presupuesto y responder por el uso adecuado, para el cumplimiento de las metas, esto facilita la consolidación ya que cada uno de los departamentos, cuenta con la información necesaria para calcularlos. 
-          p El presupuesto maestro es el horizonte o la pauta económica motora para el crecimiento de la organización, está compuesto por los presupuestos operacional y financiero Se caracteriza por tener la capacidad de integrar y coordinar en términos financieros las metas de la organización.
+          p El presupuesto maestro es el horizonte o la pauta económica motora para el crecimiento de la organización, está compuesto por el presupuesto operacional y financiero. Se caracteriza por tener la capacidad de integrar y coordinar en términos financieros las metas de la organización.
       .col-xxl-5.col-xl-5.col-lg-5.col-md-12(data-aos="fade-down-right")
         img(src='@/assets/curso/tema2/imagen1.jpg')
     p.my-5 Los presupuestos maestros se definen basados en: 

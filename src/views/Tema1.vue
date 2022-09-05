@@ -289,7 +289,7 @@
           .col-xxl-1.col-xl-1.col-lg-2.col-md-2.col-sm-2.col-3.ps-4.ps-sm-4.ps-xl-0
             img(src='@/assets/curso/tema1/dinero.svg')
           .col-xxl-10.col-xl-10.col-lg-10.col-md-10.col-sm-10.col-9
-            h4.mt-4 Tarifas portuarias.
+            h4.mt-4 Tarifas portuarias
             p.mt-3.ms-3 Los valores deben ser consultados en cada terminal portuaria, ya que las tarifas pueden variar debido a su tecnología, infraestructura y demanda.  En el siguiente documento podrás consultar un ejemplo de las tarifas portuarias del puerto de Cartagena
             .row.justify-content-center
               .col-xxl-8.col-xl-8.col-lg-8.col-md-8.col-sm-9.col-11
@@ -335,11 +335,11 @@
                 p.pe-5.me-2 Puede consultar aquí las tarifas vigentes de TCC: 
             .row.justify-content-center.px-0
               .col-xxl-8.ps-0.pe-3
-                a.anexo.mb-4.mb-lg-0(href="https://www.dhl.com/co-es/home/nuestras-divisiones/transporte-de-envios/transporte-aereo/cotizacion-de-transporte-aereo.html" target="_blank")
+                a.anexo.mb-4.mb-lg-0(href="https://tcc.com.co/courier/paqueteria/productos-y-servicios/" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
-                    p.mb-0 Enlace web 
+                    p.mb-0 Enlace <i>web</i> 
       .col-xxl-5.col-xl-5.col-lg-6.col-md-9.col-12.mb-4(data-aos="flip-left")
         .crd_hover_txt
           .crd_hover_txt--img
@@ -358,7 +358,7 @@
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
-                    p.mb-0 Enlace web 
+                    p.mb-0 Enlace <i>web</i> 
     p.my-5(data-aos="fade-down-left") El valor del flete se calcula teniendo en cuenta el peso de la carga:
     .row.justify-content-center(data-aos="fade-down-right")
       .col-md-6
@@ -409,7 +409,7 @@
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
-                    p.mb-0.text-bold Enlace web.
+                    p.mb-0.text-bold Enlace <i>web</i>
 
     p.my-5(data-aos="fade-down-right") A través del observatorio de transporte de carga y las asociaciones gremiales del sector, en una mesa técnica validaron y actualizaron la herramienta donde se establecieron variables, componentes y costos para parametrizar de forma más adecuada la herramienta considerando las diferentes configuraciones vehiculares y los diferentes tipos de carga: Contenerizada, general, refrigerada y gráneles sólidos, permitiendo 12 combinaciones así como se observa en la tabla 1:
     .titulo-sexto.color-acento-contenido(data-aos="fade-down-left")
