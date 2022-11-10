@@ -152,7 +152,7 @@
   background-repeat: no-repeat
   background-size: cover
 
-.fondo3
+.fondo22
   background-color: #E6E2EE !important
 
 .fondo4
@@ -216,14 +216,17 @@
   background-repeat: no-repeat
   background-size: cover
 
-.bordetabla1
-  border: 1px solid #000
-
-.desborde
-  overflow: auto
-
 .fondo21
   background-color: rgba(245, 245, 245, 0.90)  
+
+.fondo23
+  background-color: #F5F5F5 !important
+
+.fondotransparente
+  background-color: transparent !important
+
+.bordetabla1
+  border: 1px solid #000 !important
 
 .ampliar
   margin-left: -50px
@@ -279,7 +282,7 @@ figcaption
   @media (max-width: 768px)
     width: 450px
   
-
+//imagenes
 .imgsize
   width: 75% !important
   height: 75% !important
@@ -287,10 +290,27 @@ figcaption
   @media (max-width: 768px)  
     display: none
 
+.imgsize2
+  @media (width: 768px) 
+    width: 75% !important
+    height: 75% !important
+
 .tarjeta-avatar-b__img
   @media (max-width: 768px) 
     min-width: 0 !important
     min-height: 0 !important
+
+//-Acordeon
+.acordion__accion__btn--a
+  background-color: #5B4794
+
+.fa-plus:before
+  content: "\f067"
+  color: #fff
+
+.fa-minus:before
+  content: "\f068"
+  color: #fff
 
 .acordion__activo
   background-color: #C6BDE0 !important
@@ -308,6 +328,7 @@ figcaption
 .slyder-a__btn--sigt
   background-color: #FFBA5B !important
 
+//-sliders
 .slyder-a__btn--atrs
   background-color: #FFBA5B !important
 
@@ -318,14 +339,17 @@ figcaption
 .slyder-a__bullets__item
   background-color: #949CA8
   border-color: #949CA8
+  @media (max-width: 380px)
+    margin: 0 3px
 
 .nuevocolor1
   background-color:#FFD69F !important
 
-.fa-angle-right:before
+.otrocolor .fa-angle-right:before
   content: "\f105"
   color: #FF6D4B 
 
+//- pestañas
 .tabs-a__tab
   background-color: #E8E8E8 !important
 
@@ -369,23 +393,32 @@ figcaption
   height: 50% !important
   width: 80%
 
+//-tarjetas
+.tarjeta-avatar .tarjeta 
+  display: inline-block
+  padding-top: 20px !important
+  height: 85%
+
 .fa-chevron-right:before
   color: #707BA3 !important
 
 .fa-chevron-left:before
   color: #707BA3 !important
 
+//-margenes
 .margentitulo
   position: relative
   left: -45px
   @media (max-width: 1200px)
     left: -35px
   @media (max-width: 991px)
-    left: -25px
-  @media (max-width: 768px)
-    left: -15px
+    left: -10px
+  @media (max-width: 767px)
+    left: -40px
   @media (max-width: 576px)
-    left: -5px
+    left: -20px
+  @media (max-width: 520px)
+    left: -10px
 
 .margentitulo2
   position: relative
@@ -398,3 +431,7 @@ figcaption
     left: -5px
   @media (max-width: 576px)
     left: -20px
+
+//- tabla C
+.tabla-c td:first-child
+  width: 20%

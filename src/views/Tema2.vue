@@ -41,7 +41,7 @@
               img(src="@/assets/curso/tema2/imagen4.jpg")
           .crd_hover_txt--body.text-center.nuevosize1.nuevocolor1
             h4.mb-3 Validar resultados periódicamente
-            p.mb-0.me-5 Es importante comparar el gasto proyectado con el real, de forma periódica para verificar qué tan acertadas son las proyecciones. Normalmente este resultado se refleja en los informes de Gestión por cada área y se consolida en uno solo desde el punto de vista financiero.
+            p.mb-0 Es importante comparar el gasto proyectado con el real, de forma periódica para verificar qué tan acertadas son las proyecciones. Normalmente este resultado se refleja en los informes de Gestión por cada área y se consolida en uno solo desde el punto de vista financiero.
     separador
     #t_2_1.titulo-segundo.colorsubtitulo(data-aos="fade-down-right")
       h2 2.1 Elementos de un presupuesto
@@ -68,9 +68,9 @@
           .row(titulo="Rubros")
             .col-md-12mb-4.mb-md-0.ps-5
               p.ms-4 Son aquellos grupos de costos que se tienen características específicas o destinos particulares dentro de un presupuesto. Por ejemplo, un rubro puede ser “gastos de administración” el dinero destinado a compra de insumos de papelería.
-      .col-xxl-4.col-xl-4.col-lg-4.col-md-8.col-8.col-sm-8(data-aos="fade-down-right")
+      .col-xxl-4.col-xl-4.col-lg-4.col-md-8.col-8.col-sm-8.mb-5(data-aos="fade-down-right")
         img(src="@/assets/curso/tema2/imagen5.jpg")
-    p.mt-5(data-aos="fade-down-right") En conclusión, los elementos de los presupuestos definen y reflejan los aspectos financieros y económicos medibles que la empresa debe controlar. 
+    p(data-aos="fade-down-right") En conclusión, los elementos de los presupuestos definen y reflejan los aspectos financieros y económicos medibles que la empresa debe controlar. 
     separador
     #t_2_2.titulo-segundo.colorsubtitulo(data-aos="fade-down-left")
       h2 2.2 Ventajas de contar con un presupuesto 
@@ -96,13 +96,13 @@
             h4 Planeación
             p Planear los gastos permite:
             ul.lista-ul.ms-5.ms-sm-4
-              li 
+              li.otrocolor  
                 i.fas.fa-angle-right
                 | Resolver los compromisos económicos o deudas.
-              li
+              li.otrocolor 
                 i.fas.fa-angle-right
                 | Tener una buena experiencia en el pago de cuentas,
-              li
+              li.otrocolor 
                 i.fas.fa-angle-right
                 | Disponer de un respaldo en caso de que se requiera comprar maquinaria o ampliación 
             p Ser organizado en los pagos y planearlos abre puertas a la parte financiera.        
@@ -132,7 +132,7 @@
       .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-1.col-2
         .row
           .col-xxl-9.col-xl-9.col-lg-9.col-md-11.col-sm-12.col-9
-            img(src="@/assets/curso/tema1/fondo2.jpg")
+            img.p-0.p-xl-2(src="@/assets/curso/tema1/fondo2.jpg")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-7.col-sm-10.col-10.ps-0
         h3.mb-0.ms-0.margentitulo2 Formulación y planeación
     .row.justify-content-center
@@ -146,7 +146,7 @@
       .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-1.col-2(data-aos="fade-down-left")
         .row
           .col-xxl-9.col-xl-9.col-lg-9.col-md-11.col-sm-12.col-9
-            img(src="@/assets/curso/tema1/fondo2.jpg")
+            img.p-0.p-xl-2(src="@/assets/curso/tema1/fondo2.jpg")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-7.col-sm-10.col-10.ps-0(data-aos="fade-down-right")
         h3.mb-0.ms-0.margentitulo2 Elaboración de presupuestos
     p.mb-5(data-aos="fade-down-left") Para un agente o actor que labora en una empresa dedicada al transporte es fundamental que pueda realizar las actividades que dan origen al presupuesto, ejecutarlo y posteriormente controlarlo, por lo tanto, desde la elaboración se debe plantear correctamente para que se logre el éxito de la operación y del negocio. A continuación, se presentan los pasos más relevantes para la elaboración de un presupuesto: 
@@ -189,10 +189,10 @@
             .col-lg-10
               .tarjeta-avatar-b.mb-5
                 .tarjeta-avatar-b__img
-                  img.imgsize(src='@/assets/curso/tema2/fig2.svg')
+                  img.imgsize.p-0.p-lg-2(src='@/assets/curso/tema2/fig2.svg')
                 .tarjeta.fondo11
                   .p-md-4.ps-0.py-4.pe-3
-                    h2 Derrumbes en cierta época del año
+                    h5 Derrumbes en cierta época del año
                     p esto genera  demoras en las entregas y es necesario trasladar la carga con ayuda de arrieros de la zona. En este caso, se conoce la temporada de lluvias y lo que ha sucedido anteriormente, esto sería un imprevisto.
           p.ms-4 La suma de los imprevistos no gastados con el tiempo puede ser acumulables y se pueden utilizar como recursos para inversión o crecimiento del patrimonio.
       .row(titulo="Estado de ingresos y egresos")
@@ -208,7 +208,7 @@
       .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-1.col-2
         .row
           .col-xxl-9.col-xl-9.col-lg-9.col-md-11.col-sm-12.col-9
-            img(src="@/assets/curso/tema1/fondo2.jpg")
+            img.p-0.p-xl-2(src="@/assets/curso/tema1/fondo2.jpg")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-7.col-sm-10.col-10.ps-0
         h3.mb-0.ms-0.margentitulo2 Ejecución del presupuesto
     .row.justify-content-center
@@ -230,7 +230,7 @@
       .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-1.col-2
         .row
           .col-xxl-9.col-xl-9.col-lg-9.col-md-11.col-sm-12.col-9
-            img(src="@/assets/curso/tema1/fondo2.jpg")
+            img.p-0.p-xl-2(src="@/assets/curso/tema1/fondo2.jpg")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-7.col-sm-10.col-10.ps-0
         h3.mb-0.ms-0.margentitulo2 Seguimiento del presupuesto
     p.mb-5(data-aos="fade-down-left") En esta sección, es donde se realiza la comparación entre las metas u objetivos planteados al inicio, con los recursos ejecutados, es decir lo que se planeó versus lo que se ejecutó. Este seguimiento se puede realizar de forma periódica, para tomar acciones a tiempo de forma semanal o mensual, y al final del año.  Este proceso hace parte de la gestión presupuestal y como todo seguimiento pretende evaluar constantemente la ejecución.
@@ -246,7 +246,7 @@
       .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-1.col-2
         .row
           .col-xxl-9.col-xl-9.col-lg-9.col-md-11.col-sm-12.col-9
-            img(src="@/assets/curso/tema1/fondo2.jpg")
+            img.p-0.p-xl-2(src="@/assets/curso/tema1/fondo2.jpg")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-7.col-sm-10.col-10.ps-0
         h3.mb-0.ms-0.margentitulo2 Liquidación o balance final
     img(data-aos="fade-down-right")(src="@/assets/curso/tema2/imagen13.jpg")

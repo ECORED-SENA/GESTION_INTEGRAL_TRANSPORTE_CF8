@@ -62,13 +62,8 @@
     p.mb-5(data-aos="fade-down-right") La cadena logística se puede afectar por cada individuo, por eso se debe coordinar y gestionar correctamente la actuación de cada individuo, un ejemplo de cadena logística se puede visualizar a continuación:
     h3.text-center.mb-4(data-aos="fade-down-left") Cadena Logística en Comercio Internacional
     figure
-      img(data-aos="fade-down-right").nomostrar(src='@/assets/curso/tema3/fig2.svg')
-      figcaption.nomostrar Nota. Grupo Bancolombia (2021).
-    img(data-aos="fade-down-right").nomostrar4(src='@/assets/curso/tema3/fig2-1.svg')
-    img.sizeimg2.mx-5(data-aos="fade-down-right").my-5.nomostrar4(src='@/assets/curso/tema3/fig2-2.svg')
-    figure
-      img(data-aos="fade-down-right").mb-4.nomostrar4(src='@/assets/curso/tema3/fig2-3.svg')
-      figcaption.nomostrar4 Nota. Grupo Bancolombia (2021).
+      img(data-aos="fade-down-right")(src='@/assets/curso/tema3/fig2.svg')
+      figcaption Nota. Grupo Bancolombia (2021).
     separador
     #t_3_1.titulo-segundo.colorsubtitulo(data-aos="fade-down-right")
       h2 3.1 Actores y costos de la cadena logística
@@ -110,10 +105,10 @@
     p.my-5(data-aos="fade-down-right") Los costos asociados al proceso de exportación van de la mano con el tiempo, una vez teniendo claros los términos de Negociación internacional INCOTERMS 2020 y teniendo el valor del producto en la fábrica del país origen, se deben considerar los siguientes costos:
 
     .row.mb-4.align-items-center(data-aos="fade-down-left")
-      .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-1.col-1
+      .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-2.col-2
         .row
-          .col-xxl-7.col-xl-7.col-lg-7.col-md-8.col-sm-10.col-12
-            img(src="@/assets/curso/tema1/fondo3.svg")
+          .col-xxl-7.col-xl-7.col-lg-7.col-md-10.col-sm-6.col-8
+            img.p-0.p-sm-0.p-xl-1.p-xxl-2(src="@/assets/curso/tema1/fondo3.svg")
       .col-xxl-9.col-xl-9.col-lg-9.col-md-9.col-sm-10.col-10.ps-0
         h4.mb-0.ms-0.margentitulo Costos en el país origen de la exportación
     p(data-aos="fade-down-right") Son los costos en los que incurre el vendedor desde que el producto sale de su fábrica hasta el puerto o terminal por donde se va a desplazar dentro del mismo país. Los aspectos asociados a este costo son: empaque, embalaje, documentación, unitarización, manipulación local, seguros, transporte a nivel nacional, almacenaje, cargue, descargue, documentación aduanera, gastos bancarios, agentes. 
@@ -127,14 +122,14 @@
           img(src="@/assets/curso/tema3/tabla2.svg")
           figcaption Nota. Cámara de Comercio de Bogotá (2019).
   
-    .row.mb-4.align-items-center
-      .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-1.col-1(data-aos="fade-down-right")
+    .row.my-4.align-items-center
+      .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-2.col-2(data-aos="fade-down-right")
         .row
-          .col-xxl-7.col-xl-7.col-lg-7.col-md-8.col-sm-10.col-12
-            img(src="@/assets/curso/tema1/fondo3.svg")
+          .col-xxl-7.col-xl-7.col-lg-7.col-md-10.col-sm-6.col-8
+            img.p-0.p-sm-0.p-xl-1.p-xxl-2(src="@/assets/curso/tema1/fondo3.svg")
       .col-xxl-9.col-xl-9.col-lg-9.col-md-9.col-sm-10.col-10.ps-0(data-aos="fade-down-left")
         h4.mb-0.ms-0.margentitulo Costos del tránsito internacional
-    p.my-5(data-aos="fade-down-right") Son aquellos costos en los que incurre el vendedor o comprador (según el caso) desde el terminal o puerto hasta el sitio de recepción de la mercancía en el país importador. Corresponden a manipulación al embarque, seguro, trasporte, almacenaje, desembarque y agentes del país importador. En la siguiente tabla 3, se resumen los costos mencionados a manera de referencia.
+    p.mb-5(data-aos="fade-down-right") Son aquellos costos en los que incurre el vendedor o comprador (según el caso) desde el terminal o puerto hasta el sitio de recepción de la mercancía en el país importador. Corresponden a manipulación al embarque, seguro, trasporte, almacenaje, desembarque y agentes del país importador. En la siguiente tabla 3, se resumen los costos mencionados a manera de referencia.
     .row.justify-content-center
       .col-xxl-10.col-xl-10.col-lg-10.col-md-12(data-aos="fade-down-left")
         .titulo-sexto.color-acento-contenido
@@ -153,10 +148,10 @@
           img(src="@/assets/curso/tema3/tabla4.svg")
           figcaption Nota. Cámara de Comercio de Bogotá (2019). 
     .row.my-4.align-items-center
-      .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-1.col-1(data-aos="fade-down-right")
+      .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-2.col-2(data-aos="fade-down-right")
         .row
-          .col-xxl-7.col-xl-7.col-lg-7.col-md-8.col-sm-10.col-12
-            img(src="@/assets/curso/tema1/fondo3.svg")
+          .col-xxl-7.col-xl-7.col-lg-7.col-md-10.col-sm-6.col-8
+            img.p-0.p-sm-0.p-xl-1.p-xxl-2(src="@/assets/curso/tema1/fondo3.svg")
       .col-xxl-9.col-xl-9.col-lg-9.col-md-9.col-sm-10.col-10.ps-0(data-aos="fade-down-left")
         h4.mb-0.ms-0.margentitulo Costos en el país destino o importador
     p.my-5(data-aos="fade-down-right") Son los costos en los que incurre el importador desde el puerto o terminal destino en su país y dentro del territorio hasta el punto de entrega final, ver tabla 5.
@@ -179,16 +174,16 @@
       .col-xxl-7.col-xl-7.col-lg-8.col-md-12
         .tarjeta.color-primario.p-3.mb-5
           .row.justify-content-center
-            .col-2.col-sm-2.col-lg-2.py-1.py-lg-3
-              img(src="@/assets/curso/tema3/icono1.svg")
-            .col
+            .col-4.col-sm-3.col-lg-2.py-1.py-lg-2
+              img.p-2(src="@/assets/curso/tema3/icono1.svg")
+            .col-md-10.col-sm-12
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0.pt-2.pt-lg-4
                   h3.mb-1 Tabla 6
                   p Lista de chequeo de los costos involucrados en un proceso de exportación- importación. 
                 .col-sm-auto
-                  a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('downloads/lista_de_chequeo.pdf')" target="_blank")
-                    span Ver mas
+                  a.boton.color-acento-contenido(:href="obtenerLink('downloads/lista_de_chequeo.pdf')" target="_blank")
+                    span.text-dark Ver mas
     separador
     #t_3_2.titulo-segundo.colorsubtitulo(data-aos="fade-down-left")
       h2 3.2 Requerimientos del cliente

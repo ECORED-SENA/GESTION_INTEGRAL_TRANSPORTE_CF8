@@ -8,7 +8,6 @@
     //- Una vez el componente "Muestras" no se necesite 
     //- Se debe borrar el "import Muestras from '../components/Muestras'" y en "components" en "<script"
     //- esto evitará que se compile en la carpeta final de distribución
-    //- Muestras
     .titulo-principal.color-acento-contenido(data-aos="fade")
       .titulo-principal__numero
         span.text-dark 1
@@ -76,65 +75,65 @@
       .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-1.col-2
         .row
           .col-xxl-9.col-xl-9.col-lg-9.col-md-11.col-sm-12.col-9
-            img(src="@/assets/curso/tema1/fondo2.jpg")
+            img.p-0.p-xl-2(src="@/assets/curso/tema1/fondo2.jpg")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-7.col-sm-10.col-10.ps-0
         h3.mb-0.ms-0.margentitulo2 Aspectos para el cálculo de tarifas
     p(data-aos="fade-down-right") Existen varias metodologías empleadas para determinar las tarifas del servicio, sin embargo, dentro de las más empleadas está el estudio de mercado, donde se determina lo que el cliente está dispuesto a pagar por el bien o el servicio.
     p.mb-5(data-aos="fade-down-left") Un ejemplo es el transporte metropolitano de Bucaramanga, en su estudio técnico para las tarifas del 2016, considera los siguientes aspectos: 
     TabsA.color-acento-botones.mb-5(data-aos="fade-down-right")
-      .tarjeta.fondo3.p-4(titulo="Comportamiento histórico")
-        h4 Comportamiento histórico
+      .tarjeta.fondo22.px-4.pt-4(titulo="Comportamiento histórico")
         .row
           .col-xl-6.mb-4
             figure
               img(src='@/assets/curso/tema1/imagen3.jpg', alt='Texto que describa la imagen')
 
           .col-xl-6
+            h4 Comportamiento histórico
             p Se realiza el análisis de las tarifas del servicio de transporte público,  en el radio de acción metropolitano, éste dato hace referencia al valor pagado por los clientes para el transporte colectivo ordinario, el individual (taxi) y el masivo, desde los años 1998 hasta el 2015. 
             p La tarifa mínima está en el colectivo y la máxima en el individual, esto genera  unos topes en el mercado, y se puede identificar los precios que pueden pagar los clientes.
       
-      .tarjeta.fondo3.p-4(titulo="Proyección de salario mínimo")
-        h4 Proyección de salario mínimo
+      .tarjeta.fondo22.px-4.pt-4(titulo="Proyección de salario mínimo")
         .row
           .col-xl-6.mb-4
             figure
               img(src='@/assets/curso/tema1/imagen4.jpg')
           .col-xl-6
+            h4 Proyección de salario mínimo
             p Se realiza la revisión entre los años 1990 y  2015, se fija mediante una negociación colectiva entre los gremios productivos del país; un aspecto fundamental  que se considera es el costo de vida porque debe estar dispuesto para cubrir las necesidades básicas y tarifas de crecimiento económico del país. 
 
-      .tarjeta.fondo3.p-4(titulo="Estructura de costo de operación")
-        h4 Estructura de costo de operación
+      .tarjeta.fondo22.px-4.pt-4(titulo="Estructura de costo de operación")
         .row
           .col-xl-6.mb-4
             figure
               img(src='@/assets/curso/tema1/imagen5.jpg')
           .col-xl-6
+            h4 Estructura de costo de operación
             p Se tienen presentes los costos de las variales de operación  como: combustibles, lubricantes, llantas, salarios y prestaciones, servicios, mantenimientos; 
             p Los costos fijos como la administración, rodamientos, impuestos, parqueadero y seguros.
             p Finalmente el capital que genere rentabilidad. 
       
-      .tarjeta.fondo3.p-4(titulo="Tipo de vehículo")
-        h4 Tipo de vehículo
+      .tarjeta.fondo22.px-4.pt-4(titulo="Tipo de vehículo")
         .row
           .col-xl-6.mb-4
             figure
               img(src='@/assets/curso/tema1/imagen6.jpg')
           .col-xl-6
+            h4 Tipo de vehículo
             p Se consideran aspectos como la composición del parque automotor: marca, modelo; ya que se debe validar la capacidad, respaldo de garantías y calidad. 
 
-      .tarjeta.fondo3.p-4(titulo="Mantenimiento")
-        h4 Mantenimiento
+      .tarjeta.fondo22.px-4.pt-4(titulo="Mantenimiento")
         .row
           .col-xl-6.mb-4
             figure
               img(src='@/assets/curso/tema1/imagen7.jpg')
           .col-xl-6
+            h4 Mantenimiento
             p Debe estar programado y respaldado con los requerimientos de vehículos seguros, considerando:
             ul.lista-ul
-              li 
+              li.otrocolor 
                 i.fas.fa-angle-right
                 | La Resolución 315 de 2013. 
-              li
+              li.otrocolor
                 i.fas.fa-angle-right
                 | El artículo 1 de la resolución 378 de 2013, artículos 1° Revisión técnico-mecánica, 2° Revisión y Mantenimiento de los vehículos, 3° Mantenimiento de vehículos y 4°. Protocolo de alistamiento.     
     .row.justify-content-center
@@ -146,7 +145,7 @@
       .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-1.col-2
         .row
           .col-xxl-9.col-xl-9.col-lg-9.col-md-11.col-sm-12.col-9
-            img(src="@/assets/curso/tema1/fondo2.jpg")
+            img.p-0.p-xl-2(src="@/assets/curso/tema1/fondo2.jpg")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-7.col-sm-10.col-10.ps-0
         h3.mb-0.ms-0.margentitulo2 Servicio de transporte de pasajeros
     p.mb-5(data-aos="fade-down-left") Los pasajeros se movilizan en varios modos de transporte, las tarifas pueden variar de acuerdo con la época en la que se realice, ya que la demanda varía en las distintas temporadas del año. Muchas empresas presentan descuentos para motivar a los usuarios a planear sus traslados con tiempo. A continuación, se puede observar cómo se realiza el análisis del pasaje según el transporte:
@@ -234,15 +233,15 @@
       .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-1.col-2
         .row
           .col-xxl-9.col-xl-9.col-lg-9.col-md-11.col-sm-12.col-9
-            img(src="@/assets/curso/tema1/fondo2.jpg")
-      .col-xxl-6.col-xl-6.col-lg-6.col-md-7.col-sm-10.col-10.ps-0
+            img.p-0.p-xl-2(src="@/assets/curso/tema1/fondo2.jpg")
+      .col-xxl-6.col-xl-6.col-lg-6.col-md-7.col-sm-10.col-10.ps-1
         h3.mb-0.ms-0.margentitulo2 Servicio de transporte de carga
     p.my-5(data-aos="fade-down-left") Para el transporte de carga dependiendo del modo de transporte varía la reglamentación y la determinación de los costos.
     .row.mb-4.align-items-center(data-aos="fade-down-right")
-      .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-1.col-1
+      .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-2.col-2
         .row
-          .col-xxl-7.col-xl-7.col-lg-7.col-md-8.col-sm-10.col-12
-            img(src="@/assets/curso/tema1/fondo3.svg")
+          .col-xxl-7.col-xl-7.col-lg-7.col-md-10.col-sm-6.col-8
+            img.p-0.p-sm-0.p-xl-1.p-xxl-2(src="@/assets/curso/tema1/fondo3.svg")
       .col-xxl-9.col-xl-9.col-lg-9.col-md-9.col-sm-10.col-10.ps-0
         h4.mb-0.ms-0.margentitulo Flete del transporte marítimo
     .row.justify-content-center
@@ -299,10 +298,10 @@
                   .anexo__texto
                     p Anexo. Tarifas portuarias        
     .row.my-5.align-items-center(data-aos="fade-down-left")
-      .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-1.col-1
+      .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-2.col-2
         .row
-          .col-xxl-7.col-xl-7.col-lg-7.col-md-8.col-sm-10.col-12
-            img(src="@/assets/curso/tema1/fondo3.svg")
+          .col-xxl-7.col-xl-7.col-lg-7.col-md-10.col-sm-6.col-8
+            img.p-0.p-sm-0.p-xl-1.p-xxl-2(src="@/assets/curso/tema1/fondo3.svg")
       .col-xxl-9.col-xl-9.col-lg-9.col-md-9.col-sm-10.col-10.ps-0
         h4.mb-0.ms-0.margentitulo Flete del transporte férreo
     .row.justify-content-center
@@ -311,10 +310,10 @@
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12(data-aos="fade-down-left")
         img(src="@/assets/curso/tema1/imagen11.jpg")
     .row.my-4.align-items-center(data-aos="fade-down-right")
-      .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-1.col-1
+      .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-2.col-2
         .row
-          .col-xxl-7.col-xl-7.col-lg-7.col-md-8.col-sm-10.col-12
-            img(src="@/assets/curso/tema1/fondo3.svg")
+          .col-xxl-7.col-xl-7.col-lg-7.col-md-10.col-sm-6.col-8
+            img.p-0.p-sm-0.p-xl-1.p-xxl-2(src="@/assets/curso/tema1/fondo3.svg")
       .col-xxl-9.col-xl-9.col-lg-9.col-md-9.col-sm-10.col-10.ps-0
         h4.mb-0.ms-0.margentitulo Flete del transporte aéreo
     p(data-aos="fade-down") Para el transporte de carga aéreo se considera el peso y el volumen de la carga, la tarifa básica para algunas empresas que prestan este servicio como TCC parten desde los 6 kg de peso como valor mínimo y cobran un valor por kg adicional en la carga. Dependiendo del origen y destino de la necesidad. Se pueden consultar aquí las tarifas vigentes de dicha empresa:
@@ -368,30 +367,30 @@
         p La tarifa aérea tiene tres valores incluidos: Tarifa general de Carga: para cargas normales< a 45kg, de cantidad >45kg y mínimas. Tarifas preferenciales para mercancías de gran dimensión: 
         .row.align-items-center
           .col-xxl-2.col-xl-2.col-lg-2.col-md-2.col-sm-2.col-2
-            img.mb-4(src="@/assets/curso/tema1/icono1.svg")
+            img.mb-4.p-1(src="@/assets/curso/tema1/icono1.svg")
           .col-xxl-10.col-xl-10.col-lg-10.col-md-10.col-sm-10.col-10
             h4 Clasificadas
             p Como equipajes no acompañados, papel, contenedores vacíos para transporte de animales, restos mortales.
             hr
         .row.align-items-center
           .col-xxl-2.col-xl-2.col-lg-2.col-md-2.col-sm-2.col-2
-            img.mb-5(src="@/assets/curso/tema1/icono2.svg")
+            img.mb-5.p-1(src="@/assets/curso/tema1/icono2.svg")
           .col-xxl-10.col-xl-10.col-lg-10.col-md-10.col-sm-10.col-10
             h4.mb-5.mt-4 Tarifas mercancías específicas
             hr
         .row.align-items-center
           .col-xxl-2.col-xl-2.col-lg-2.col-md-2.col-sm-2.col-2
-            img.mb-5(src="@/assets/curso/tema1/icono3.svg")
+            img.mb-5.p-1(src="@/assets/curso/tema1/icono3.svg")
           .col-xxl-10.col-xl-10.col-lg-10.col-md-10.col-sm-10.col-10
             h4.mb-5.mt-4 Tarifa de carga unitarizada
             hr
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12
         img(src="@/assets/curso/tema1/imagen13.jpg")
     .row.mb-4.align-items-center
-      .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-1.col-1
+      .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-2.col-2
         .row
-          .col-xxl-7.col-xl-7.col-lg-7.col-md-8.col-sm-10.col-12
-            img(src="@/assets/curso/tema1/fondo3.svg")
+          .col-xxl-7.col-xl-7.col-lg-7.col-md-10.col-sm-6.col-8
+            img.p-0.p-sm-0.p-xl-1.p-xxl-2(src="@/assets/curso/tema1/fondo3.svg")
       .col-xxl-9.col-xl-9.col-lg-9.col-md-9.col-sm-10.col-10.ps-0
         h4.mb-0.ms-0.margentitulo Transporte automotor de carga
     p(data-aos="fade-down-right") Para este sistema de transporte se cuenta con una plataforma interactiva, creada por el Ministerio de transporte conocida como SICE-TAC que es una herramienta del sistema de información para el transporte automotor de carga.
@@ -486,13 +485,13 @@
         img(src="@/assets/curso/tema1/fig1.svg")
         h4.mt-4.text-center Informe del embarque
         ul.lista-ul.ms-5.ms-sm-4
-          li 
+          li.otrocolor  
             i.fas.fa-angle-right
             | Cantidades
-          li
+          li.otrocolor 
             i.fas.fa-angle-right
             | Peso
-          li
+          li.otrocolor 
             i.fas.fa-angle-right
             | Volumen
       .col-xxl-2.col-xl-2.col-lg-2.col-md-4.col-sm-4.col-6.px-0(data-aos="fade-down-left")
@@ -502,30 +501,30 @@
         img(src="@/assets/curso/tema1/fig3.svg")
         h4.mt-4.text-center Cotizaciones
         ul.lista-ul.ms-5.ms-sm-4
-          li 
+          li.otrocolor  
             i.fas.fa-angle-right
             | Agencia de aduana
-          li
+          li.otrocolor 
             i.fas.fa-angle-right
             | Agencia de carga
       .col-xxl-2.col-xl-2.col-lg-2.col-md-4.col-sm-4.col-6.px-0(data-aos="fade-down-right")
         img(src="@/assets/curso/tema1/fig4.svg")
         h4.mt-4.text-center Documentación
         ul.lista-ul.ms-5.ms-sm-4
-          li 
+          li.otrocolor 
             i.fas.fa-angle-right
             | Certificaciones
-          li
+          li.otrocolor 
             i.fas.fa-angle-right
             | Permisos
       .col-xxl-2.col-xl-2.col-lg-2.col-md-4.col-sm-4.col-6.px-0(data-aos="fade-down-left")
         img(src="@/assets/curso/tema1/fig5.svg")
         h4.mt-4.text-center Costos bancarios
         ul.lista-ul.ms-5.ms-sm-4
-          li 
+          li.otrocolor  
             i.fas.fa-angle-right
             | Tasas de interés
-          li
+          li.otrocolor 
             i.fas.fa-angle-right
             | Comisiones
 
@@ -534,7 +533,7 @@
       .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-1.col-2
         .row
           .col-xxl-9.col-xl-9.col-lg-9.col-md-11.col-sm-12.col-9
-            img(src="@/assets/curso/tema1/fondo2.jpg")
+            img.p-0.p-xl-2(src="@/assets/curso/tema1/fondo2.jpg")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-7.col-sm-10.col-10.ps-0
         h3.mb-0.ms-0.margentitulo2 Productos
     .row.justify-content-center
@@ -546,19 +545,16 @@
       .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-1.col-2
         .row
           .col-xxl-9.col-xl-9.col-lg-9.col-md-11.col-sm-12.col-9
-            img(src="@/assets/curso/tema1/fondo2.jpg")
+            img.p-0.p-xl-2(src="@/assets/curso/tema1/fondo2.jpg")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-7.col-sm-10.col-10.ps-0
         h3.mb-0.ms-0.margentitulo2  Costos de la DFI
     img(data-aos="fade-down")(src="@/assets/curso/tema1/imagen15.jpg")
     p.mt-5(data-aos="fade") Corresponden a los costos asociados a la Distribución Física Internacional en torno a situar el producto en el mercado internacional, con los términos preestablecidos de la negociación en el Incoterms. Estos costos varían por el país exportador, las rutas de tránsito internacional y el país importador. Cada país tiene políticas y monedas diferentes, por ende, sus costos son distintos. Esta información deberá ser suministrada por el usuario de la plataforma incluyendo los costos asociados. 
 </template>
 <script>
-import Muestras from '../components/Muestras' // borrar una vez el componente "Muestras" no se necesite
 export default {
   name: 'Tema1',
-  components: {
-    Muestras, // borrar una vez el componente "Muestras" no se necesite
-  },
+  components: {},
   data: () => ({
     // variables de vue
   }),
