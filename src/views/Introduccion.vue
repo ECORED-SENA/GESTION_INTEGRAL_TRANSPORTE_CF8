@@ -5,7 +5,8 @@
   
     .titulo-principal.color-acento-contenido(data-aos="fade")
       .titulo-principal__numero
-        span.text-dark i
+        span
+          i.fas.fa-info
       h1 Introducción
     .row.justify-content-center
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12 
