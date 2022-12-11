@@ -180,6 +180,10 @@ export default {
     {
       referencia:
         'Burbano, A. (2006). Costos y Presupuestos. (Ed. 7). Ediciones UNIANDES. ',
+    },
+    {
+      referencia:
+        'Cámara de comercio de Bogotá. (2019). Guía práctica costeo de una exportación e importación.',
       link:
         'https://bibliotecadigital.ccb.org.co/bitstream/handle/11520/14391/Gu%c3%ada%20pr%c3%a1ctica%20costeo%20de%20una%20exportaci%c3%b3n%20e%20importaci%c3%b3n%20%28002%29.pdf?sequence=5&isAllowed=y',
     },
@@ -285,32 +289,28 @@ export default {
       referencia:
         'Viaña, L. (2014). Manual de costos y presupuestos. Institución Universitaria ITSA.',
       tipo: 'Manual',
-      link:
-        '/GESTION_INTEGRAL_TRANSPORTE_CF8/downloads/Anexo6_ManualCostosPresupuestos.pdf',
+      descarga: 'downloads/Anexo6_ManualCostosPresupuestos.pdf',
     },
     {
       tema: 'Guía práctica costeo de una exportación e importación.',
       referencia:
         'Cámara de comercio de Bogotá. (2019). Guía práctica costeo de una exportación e importación.',
       tipo: 'Cartilla',
-      link:
-        '/GESTION_INTEGRAL_TRANSPORTE_CF8/downloads/Anexo4_GuíaPracticaCosteo.pdf',
+      link: 'downloads/Anexo4_GuíaPracticaCosteo.pdf',
     },
     {
       tema: 'Guía practica para la elaboración de Presupuestos',
       referencia:
         'Sepúlveda, M. (2006). Guía practica para la elaboración de Presupuestos. [Tesis pregrado]',
       tipo: 'Tesis',
-      link:
-        '/GESTION_INTEGRAL_TRANSPORTE_CF8/downloads/Anexo7_Guia_practica_presupuesto.pdf',
+      link: 'downloads/Anexo7_Guia_practica_presupuesto.pdf',
     },
     {
       tema: 'Guía para la elaboración del Presupuesto: Operación e Inversión.',
       referencia:
         'Uniminuto. (). Guía para la elaboración del Presupuesto: Operación e Inversión.',
       tipo: 'Guía',
-      link:
-        '/GESTION_INTEGRAL_TRANSPORTE_CF8/downloads/Anexo8_GuiaElaboracionPresupuesto.pdf',
+      link: 'downloads/Anexo8_GuiaElaboracionPresupuesto.pdf',
     },
     {
       tema: 'Tabla básica carga aérea.',

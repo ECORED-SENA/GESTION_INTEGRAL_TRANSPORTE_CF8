@@ -70,36 +70,36 @@
     p.mb-5(data-aos="fade-down-left") Los actores son aquellas empresas o individuos que hacen parte de la cadena logística y que juegan un papel importante en la relación comercial de la misma. Los principales actores son:
 
     SlyderA(data-aos="fade-down-right").fondoslider.p-5(tipo="b")
-      .row
+      .row.justify-content-center
         .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mb-4.mb-md-0
           h4 Exportador
-          p Es quien presta el servicio de envío de la mercancía y debe garantizar que el producto cumpla con las normas, certificaciones requeridas para su comercialización a nivel nacional e internacional. y con los requisitos del cliente. En el Incoterm, se define al responsable de gestionar el transporte de carga para que llegue al sitio acordado con el cliente. Debe tramitar toda la documentación necesaria para la exportación y realizar el proceso de empaque.
+          p Es quien presta el servicio de envío de la mercancía y debe garantizar que el producto cumpla con las normas, certificaciones requeridas para su comercialización a nivel nacional e internacional. y con los requisitos del cliente. En el Incoterms, se define al responsable de gestionar el transporte de carga para que llegue al sitio acordado con el cliente. Debe tramitar toda la documentación necesaria para la exportación y realizar el proceso de empaque.
       
-        .col-xxl-6.col-xl-6.col-lg-6.col-md-12
+        .col-xxl-6.col-xl-6.col-lg-6.col-md-11
           figure
             img(src='@/assets/curso/tema3/slider1.jpg')
-      .row
+      .row.justify-content-center
         .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mb-4.mb-md-0
           h4 Importador
           p Gestiona con ayuda del operador logístico el tema relacionado al transporte, debe informar  todos aquellos procesos o procedimientos en los que se verá inmersa la comercialización o exportación del producto, como entidades involucradas, restricciones, recomendaciones, costos, agentes aduaneros, seguros, normas y leyes que rigen la relación comercial del producto. Debe gestionar los documentos para la llegada y nacionalización de la carga.
-        .col-xxl-6.col-xl-6.col-lg-6.col-md-12
+        .col-xxl-6.col-xl-6.col-lg-6.col-md-11
           figure
             img(src='@/assets/curso/tema3/slider2.jpg')
-      .row
+      .row.justify-content-center
         .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mb-4.mb-md-0
           h4 Operador logístico
           p Es quien realiza la gestión de administrar y controlar las operaciones logísticas necesarias en la comercialización de productos como aliado estratégico de las empresas productoras y comercializadoras de materias primas o productos. 
           span.text-bold Las funciones más representativas son:  
-          span el procesamiento de pedidos, manejo de materias, embalaje y desconsolidación, almacenamiento, control de inventarios y servicio postventa de los productos. Son quienes definen las necesidades de la cadena logística, considerando los términos establecidos por el Incoterm: transporte de productos, embalaje, cargue y descargue, establecimiento de rutas y medios de transporte y controles de la calidad. Deben garantizar la eficiencia de la operación sin incurrir en sobrecostos o retrasos en la misma.
+          span el procesamiento de pedidos, manejo de materias, embalaje y desconsolidación, almacenamiento, control de inventarios y servicio postventa de los productos. Son quienes definen las necesidades de la cadena logística, considerando los términos establecidos por el Incoterms: transporte de productos, embalaje, cargue y descargue, establecimiento de rutas y medios de transporte y controles de la calidad. Deben garantizar la eficiencia de la operación sin incurrir en sobrecostos o retrasos en la misma.
       
-        .col-xxl-6.col-xl-6.col-lg-6.col-md-12
+        .col-xxl-6.col-xl-6.col-lg-6.col-md-11
           figure
             img(src='@/assets/curso/tema3/slider3.jpg')
-      .row
+      .row.justify-content-center
         .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mb-4.mb-md-0
           h4 Agentes de aduanas
           p Son los representantes de la entidad del gobierno que inspecciona las mercancías, informa de los tributos que incurren en la comercialización o nacionalización de los productos o mercancías, generan los documentos necesarios para la legalización de la carga, valida el cumplimiento de pagos, requisitos y normas establecidas para la comercialización. 
-        .col-xxl-6.col-xl-6.col-lg-6.col-md-12
+        .col-xxl-6.col-xl-6.col-lg-6.col-md-11
           figure
             img(src='@/assets/curso/tema3/slider4.jpg')
     p.my-5(data-aos="fade-down-right") Los costos asociados al proceso de exportación van de la mano con el tiempo, una vez teniendo claros los términos de Negociación internacional INCOTERMS 2020 y teniendo el valor del producto en la fábrica del país origen, se deben considerar los siguientes costos:
@@ -119,7 +119,7 @@
           h5 Tabla 2. 
           span Matriz de costos y tiempos en el país exportador
         figure
-          img(src="@/assets/curso/tema3/tabla2.svg")
+          img(src="@/assets/curso/tema3/tabla2.png")
           figcaption Nota. Cámara de Comercio de Bogotá (2019).
   
     .row.my-4.align-items-center
@@ -136,7 +136,7 @@
           h5 Tabla 3. 
           span Matriz de costos y tiempos en el tránsito internacional
         figure
-          img(src="@/assets/curso/tema3/tabla3.svg")
+          img(src="@/assets/curso/tema3/tabla3.png")
           figcaption Nota. Cámara de Comercio de Bogotá (2019). 
     p.my-5(data-aos="fade-down-right") En los costos que se involucran en el flete internacional y considerando el modo de transporte, se encuentran recargos que influyen en el valor final de la transacción, a continuación en la tabla 4 se indican los principales recargos y su identificación en el contexto internacional.
     .row.justify-content-center
@@ -145,7 +145,7 @@
           h5 Tabla 4. 
           span Recargos más utilizados en el transporte internacional
         figure
-          img(src="@/assets/curso/tema3/tabla4.svg")
+          img(src="@/assets/curso/tema3/tabla4.png")
           figcaption Nota. Cámara de Comercio de Bogotá (2019). 
     .row.my-4.align-items-center
       .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-2.col-2(data-aos="fade-down-right")
@@ -161,7 +161,7 @@
           h5 Tabla 5. 
           span Matriz de costos y tiempos en el país importador
         figure
-          img(src="@/assets/curso/tema3/tabla5.svg")
+          img(src="@/assets/curso/tema3/tabla5.png")
           figcaption Nota. Cámara de Comercio de Bogotá (2019).
     p.my-5(data-aos="fade-down-left") En la siguiente imagen, se presenta de forma gráfica separada los tres tipos de costos en los que se involucra una carga al querer transportarse de forma nacional o internacional. 
     img(data-aos="fade-down-right").mb-5.nomostrar(src='@/assets/curso/tema3/fig3.svg')
@@ -198,7 +198,7 @@
             .col-md-3.col-sm-4.col-4.mb-4.mb-md-0.ps-0.ps-sm-5
               img(src="@/assets/curso/tema3/icono2.svg")
             .col-md-9.col-sm-8.col-12.mb-4.mb-md-0
-              p Los clientes deben tener conocimiento de los servicios y productos que se ofertan de forma clara y directa, normalmente en las páginas web o por medio de brochure se dan a conocer esos aspectos. El cliente es quien dice lo que necesita.
+              p Los clientes deben tener conocimiento de los servicios y productos que se ofertan de forma clara y directa, normalmente en las páginas web o por medio de <i>brochure</i> se dan a conocer esos aspectos. El cliente es quien dice lo que necesita.
           .row.justify-content-center(titulo="La cotización u oferta de servicios")
             .col-md-3.col-sm-4.col-4.mb-4.mb-md-0.ps-0.ps-sm-5
               img(src="@/assets/curso/tema3/icono3.svg")
@@ -213,7 +213,7 @@
             .col-md-3.col-sm-4.col-4.mb-4.mb-md-0.ps-0.ps-sm-5
               img(src="@/assets/curso/tema3/icono5.svg")
             .col-md-9.col-sm-8.col-12.mb-4.mb-md-0
-              p La facturación: dentro de la factura, se reflejan los aspectos que hacen parte del servicio, impuestos, pagos y demás que se acuerden previamente. 
+              p Dentro de la factura, se reflejan los aspectos que hacen parte del servicio, impuestos, pagos y demás que se acuerden previamente. 
           .row.justify-content-center(titulo="El pago")
             .col-md-3.col-sm-4.col-4.mb-4.mb-md-0.ps-0.ps-sm-5
               img(src="@/assets/curso/tema3/icono6.svg")

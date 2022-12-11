@@ -56,7 +56,7 @@
               p.text-bold.mb-0 Normas vigentes
               p En el siguiente enlace se pueden consultar las normas vigentes en materia del transporte de carga,  que permiten  validar todas aquellas disposiciones gubernamentales frente al ejercicio de transporte de carga. Es importante resaltar que se incluyen los temas aduaneros, restricciones, documentos y demás relacionados.
               .row.justify-content-center
-                .col-xxl-6.col-xl-6.col-lg-6.col-md-6.col-sm-6.col-6.ps-0.pe-3
+                .col-auto.ps-0.pe-3
                   a.anexo.mb-4.mb-lg-0(href="https://zonalogistica.com/herramientas/normatividad-vigente-en-transporte-terrestre-de-carga/" target="_blank")
                     .anexo__icono
                       img(src="@/assets/template/icono-link.svg")
@@ -64,7 +64,7 @@
                       p.mb-0 Normas vigentes
     separador
     #tarifasnal.titulo-segundo.colorsubtitulo(data-aos="fade-down-right")
-      h2 1.2 Tarifas del transporte nacionales
+      h2 1.2 Tarifas del transporte nacional
     .row.justify-content-center
       .col-xxl-5.col-xl-5.col-lg-6.col-md-12(data-aos="fade-down-right")
         p Para el establecimiento de tarifas es importante considerar aspectos como Índice de Precios del Consumidor (IPC), que es un índice registrado por el Departamento Administrativo Nacional de Estadística (DANE), obtenido de los precios y cantidades consumidas, este se calcula mensual y anualmente. 
@@ -89,7 +89,7 @@
 
           .col-xl-6
             h4 Comportamiento histórico
-            p Se realiza el análisis de las tarifas del servicio de transporte público,  en el radio de acción metropolitano, éste dato hace referencia al valor pagado por los clientes para el transporte colectivo ordinario, el individual (taxi) y el masivo, desde los años 1998 hasta el 2015. 
+            p Se realiza el análisis de las tarifas del servicio de transporte público,  en el radio de acción metropolitano, este dato hace referencia al valor pagado por los clientes para el transporte colectivo ordinario, el individual (taxi) y el masivo, desde los años 1998 hasta el 2015. 
             p La tarifa mínima está en el colectivo y la máxima en el individual, esto genera  unos topes en el mercado, y se puede identificar los precios que pueden pagar los clientes.
       
       .tarjeta.fondo22.px-4.pt-4(titulo="Proyección de salario mínimo")
@@ -108,9 +108,8 @@
               img(src='@/assets/curso/tema1/imagen5.jpg')
           .col-xl-6
             h4 Estructura de costo de operación
-            p Se tienen presentes los costos de las variales de operación  como: combustibles, lubricantes, llantas, salarios y prestaciones, servicios, mantenimientos; 
-            p Los costos fijos como la administración, rodamientos, impuestos, parqueadero y seguros.
-            p Finalmente el capital que genere rentabilidad. 
+            p Se tienen presentes los costos de las variables de operación  como: combustibles, lubricantes, llantas, salarios y prestaciones, servicios, mantenimientos; Los costos fijos como la administración, rodamientos, impuestos, parqueadero y seguros.
+            p Finalmente, el capital que genere rentabilidad. 
       
       .tarjeta.fondo22.px-4.pt-4(titulo="Tipo de vehículo")
         .row
@@ -220,10 +219,10 @@
             h4 Transporte férreo de pasajeros
             p De acuerdo con el Plan Maestro Ferroviario de 2018 a 2022, se están estructurando los proyectos relacionados al transporte mixto de pasajeros y carga, la verdad este sistema de transporte ha estado en declive y desuso, pero debido a los análisis de las ventajas que trae consigo su uso para el medio ambiente y la reducción de costos, el gobierno a través de concesiones y licitaciones ha favorecido presupuestos con este propósito. 
             p Para el caso de 
-              span.resaltado.text-bold Regiotram de Occidente 
+              span.resaltado.text-bold Regiotram de Occidente, 
               span quien tiene la concesión que conecta a los municipios de 
               span.resaltado.text-bold Funza, Mosquera y Facatativá con el Distrito Capital
-              span , con una longitud aproximada de 40 km la tarifa se proyecta quede en $1.200 aun no se está implementando el transporte de pasajeros. 
+              span , con una longitud aproximada de 40 km, la tarifa se proyecta que quede en $1.200, aún no se está implementando el transporte de pasajeros. 
         
           .col-xxl-5.col-xl-5.col-lg-5.col-md-10
             figure
@@ -236,7 +235,7 @@
             img.p-0.p-xl-2(src="@/assets/curso/tema1/fondo2.jpg")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-7.col-sm-10.col-10.ps-1
         h3.mb-0.ms-0.margentitulo2 Servicio de transporte de carga
-    p.my-5(data-aos="fade-down-left") Para el transporte de carga dependiendo del modo de transporte varía la reglamentación y la determinación de los costos.
+    p.my-5(data-aos="fade-down-left") Para el transporte de carga, dependiendo del modo de transporte, varía la reglamentación y la determinación de los costos.
     .row.mb-4.align-items-center(data-aos="fade-down-right")
       .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-2.col-2
         .row
@@ -247,9 +246,9 @@
     .row.justify-content-center
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12(data-aos="fade-down-right")
         p Este valor se establece con ayuda de tratados internacionales y se calcula teniendo en cuenta el peso y el volumen de la carga, arrojando un factor. Este factor se reconoce como 
-          span.resaltado.text-bold factor de estiba (FE) = Volumen en m3/Toneladas métrica
+          span.resaltado.text-bold factor de estiba (FE) = Volumen en m<sup>3</sup>/Toneladas métrica
           span . En el caso tal de que el factor supere la relación de 
-          span.resaltado.text-bold 1m3/tm
+          span.resaltado.text-bold 1m<sup>3</sup>/tm
           span , la naviera cobra por el volumen y no el peso.
         p Algunas mercancías son más densas que otras. Cabe resaltar que, la unidad de carga es un contendor <i>Full Container Load</i> (FCL) o Carga de Contenedor Completa, esto quiere decir que, si el cliente empleará el contendor completo, se puede negociar un costo por su uso. Se deben tener en cuenta los recargos, que son valores que pueden variar por temas operativos de los buques, como el combustible (costo varía de acuerdo con la región), ajustes por cambio de moneda, gastos por uso de terminales, que también varía por autonomía de los países. Los gastos que incluyen el valor final de la carga son:
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12(data-aos="fade-down-left")
@@ -326,14 +325,14 @@
             figure
               img(src="@/assets/curso/tema1/tcc.jpg")
           .crd_hover_txt--body.nuevocolor.nuevosize
-            h4.mb-3.text-center TCC
+            h4.mb-3.mt-1.text-center TCC
             .row.my-4
               .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-1.col-1
                 img(src="@/assets/curso/tema1/imagen12.svg")
               .col-xxl-10.col-xl-10.col-lg-10.col-md-10.col-sm-10.col-10.pt-4.pt-sm-0
                 p.pe-5.me-2 Puede consultar aquí las tarifas vigentes de TCC: 
             .row.justify-content-center.px-0
-              .col-xxl-8.ps-0.pe-3
+              .col-auto.ps-0.pe-3
                 a.anexo.mb-4.mb-lg-0(href="https://tcc.com.co/courier/paqueteria/productos-y-servicios/" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
@@ -345,14 +344,14 @@
             figure
               img(src="@/assets/curso/tema1/dhl.jpg")
           .crd_hover_txt--body.nuevocolor.nuevosize
-            h4.mb-3.text-center DHL
+            h4.mb-4.text-center DHL
             .row.mt-0
               .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-1.col-1
                 img(src="@/assets/curso/tema1/imagen12.svg")
               .col-xxl-10.col-xl-10.col-lg-10.col-md-10.col-sm-10.col-10
                 p Es una empresa que presta el servicio de cotización en línea, donde el usuario podrá cotizar el servicio colocando los datos de la carga que necesita transportar y las características físicas como tamaño, peso y número de piezas, origen y destino con códigos postales cotizar el servicio.
             .row.justify-content-center.px-0
-              .col-xxl-8.ps-0.pe-3
+              .col-auto.ps-0.pe-3
                 a.anexo.mb-4.mb-lg-0(href="https://www.dhl.com/co-es/home/nuestras-divisiones/transporte-de-envios/transporte-aereo/cotizacion-de-transporte-aereo.html" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
@@ -361,10 +360,10 @@
     p.my-5(data-aos="fade-down-left") El valor del flete se calcula teniendo en cuenta el peso de la carga:
     .row.justify-content-center(data-aos="fade-down-right")
       .col-md-6
-        p.resaltado.text-center.text-bold.mb-0 Peso Volumen = largo x ancho x alto del embarque (m) x 166.667m3.
+        p.resaltado.text-center.text-bold.mb-0 Peso Volumen = largo x ancho x alto del embarque (m) x 166.667 m<sup>3</sup>.
     .row.justify-content-center.py-5.align-items-center(data-aos="fade-down-left")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12
-        p La tarifa aérea tiene tres valores incluidos: Tarifa general de Carga: para cargas normales< a 45kg, de cantidad >45kg y mínimas. Tarifas preferenciales para mercancías de gran dimensión: 
+        p La tarifa aérea tiene tres valores incluidos: Tarifa general de Carga: para cargas normales< a 45 kg, de cantidad >45 kg y mínimas. Tarifas preferenciales para mercancías de gran dimensión: 
         .row.align-items-center
           .col-xxl-2.col-xl-2.col-lg-2.col-md-2.col-sm-2.col-2
             img.mb-4.p-1(src="@/assets/curso/tema1/icono1.svg")
@@ -470,7 +469,7 @@
           td.bordetabla.bordetablaabajo.text-center X
           td.bordetabla.bordetablaabajo.text-center X
 
-    p(data-aos="fade-down-left") Lo anterior hace referencia a las necesidades que más se presentan en el transporte de carga, es decir si el cliente requiere alguna de estas posibilidades el valor tarifario será determinado por dicha herramienta. 
+    p(data-aos="fade-down-left") Lo anterior hace referencia a las necesidades que más se presentan en el transporte de carga, es decir, si el cliente requiere alguna de estas posibilidades, el valor tarifario será determinado por dicha herramienta. 
     separador
     #tarifasinter.titulo-segundo.colorsubtitulo(data-aos="fade-down-right")
       h2 1.3 Tarifas de transporte internacional 

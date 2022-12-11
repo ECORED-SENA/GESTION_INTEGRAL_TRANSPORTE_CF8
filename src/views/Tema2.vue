@@ -11,7 +11,7 @@
         p Cuando una organización desea proyectar su presupuesto, lo hace preferiblemente para un año, a eso se le conoce como 
           span.resaltado.text-bold “presupuesto maestro”
           span ; si la empresa ya tiene varios años trabajando y ha organizado bien sus gastos o costos de operación, se hace más sencillo la proyección de las metas para el año siguiente, ya que hay aspectos de orden económico que le dan las pautas como la inflación, los ajustes anuales de salarios mínimos, los índices de ingreso bruto nacionales de sectores económicos, incrementos particulares de ciertos productos para elaboración o materia prima, costos de importación o exportación, etc. 
-          p El presupuesto maestro contempla todo el presupuesto de la organización de forma macro; cada área o departamento puede tener su propio presupuesto y responder por el uso adecuado, para el cumplimiento de las metas, esto facilita la consolidación ya que cada uno de los departamentos, cuenta con la información necesaria para calcularlos. 
+          p El presupuesto maestro contempla todo el presupuesto de la organización de forma macro; cada área o departamento puede tener su propio presupuesto y responder por el uso adecuado, para el cumplimiento de las metas, esto facilita la consolidación, ya que cada uno de los departamentos, cuenta con la información necesaria para calcularlos. 
           p El presupuesto maestro es el horizonte o la pauta económica motora para el crecimiento de la organización, está compuesto por el presupuesto operacional y financiero. Se caracteriza por tener la capacidad de integrar y coordinar en términos financieros las metas de la organización.
       .col-xxl-5.col-xl-5.col-lg-5.col-md-12(data-aos="fade-down-right")
         img(src='@/assets/curso/tema2/imagen1.jpg')
@@ -51,13 +51,13 @@
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta fondo10")
           .row(titulo="Descripción del ítem")
             .col-md-12.mb-4.mb-md-0.ps-5
-              p.ms-4 Dentro de los presupuestos es importante establecer por grandes grupos los ítem a considerar, por ejemplo: Materia prima, que es lo que se requiere para la producción; transporte, valor medible de acuerdo con recorridos necesarios. Nómina, se refiere al pago necesario de personal o mano de obra. 
+              p.ms-4 Dentro de los presupuestos es importante establecer por grandes grupos los ítems a considerar, por ejemplo: Materia prima, que es lo que se requiere para la producción; transporte, valor medible de acuerdo con recorridos necesarios. Nómina, se refiere al pago necesario de personal o mano de obra. 
           .row(titulo="Demostrar los objetivos")
             .col-md-12.mb-4.mb-md-0.ps-5
               p.ms-4 Es importante visualizar los objetivos como la meta de proyección, deben tener la información documentada y ser medibles, para poderlos comparar. Cada objetivo debe estar propuesto de forma particular para validar el cumplimiento. Ejemplo: ventas de mil millones de pesos anuales.
           .row(titulo="Medición del desempeño")
             .col-md-12.mb-4.mb-md-0.ps-5
-              p.ms-4 Se relaciona con los rendimientos de lo proyectado y lo ejecutado, por ejemplo: se presupuestó para marzo un gasto general de 100 millones de pesos y se gastaron 102 millones, en este caso se analiza qué un imprevisto afectó la cifra, este debe  tener una razón  justificada y documentada, por ejemplo: una reparación adicional de un vehículo o una adecuación por daños en infraestructura.
+              p.ms-4 Se relaciona con los rendimientos de lo proyectado y lo ejecutado, por ejemplo: se presupuestó para marzo un gasto general de 100 millones de pesos y se gastaron 102 millones, en este caso se analiza qué imprevisto afectó la cifra, este debe  tener una razón  justificada y documentada, por ejemplo: una reparación adicional de un vehículo o una adecuación por daños en infraestructura.
           .row(titulo="Sustento en las tendencias")
             .col-md-12.mb-4.mb-md-0.ps-5
               p.ms-4 La información que ha sido documentada en el pasado es un muy buen soporte, ya que refleja la experiencia adquirida, por ende, es importante validar lo que sucede y compararlo con el pasado, para analizar profundamente las variables de los aspectos que intervienen. 
@@ -67,7 +67,7 @@
               p.ms-4 Se crea un resumen que brinda la información relevante del desempeño económico. Por ejemplo:  la rentabilidad obtenida en negocios efectuados en los últimos 6 meses.
           .row(titulo="Rubros")
             .col-md-12mb-4.mb-md-0.ps-5
-              p.ms-4 Son aquellos grupos de costos que se tienen características específicas o destinos particulares dentro de un presupuesto. Por ejemplo, un rubro puede ser “gastos de administración” el dinero destinado a compra de insumos de papelería.
+              p.ms-4 Son aquellos grupos de costos que tienen características específicas o destinos particulares dentro de un presupuesto. Por ejemplo, un rubro puede ser “gastos de administración” el dinero destinado a compra de insumos de papelería.
       .col-xxl-4.col-xl-4.col-lg-4.col-md-8.col-8.col-sm-8.mb-5(data-aos="fade-down-right")
         img(src="@/assets/curso/tema2/imagen5.jpg")
     p(data-aos="fade-down-right") En conclusión, los elementos de los presupuestos definen y reflejan los aspectos financieros y económicos medibles que la empresa debe controlar. 
@@ -85,7 +85,7 @@
               img(src='@/assets/curso/tema2/imagen6.jpg')
           .col-xxl-7.col-xl-7.col-lg-7.col-md-12.mb-4.mb-md-0.ps-5.mt-4.mt-lg-0
             h4 Reduce el gasto 
-            p Cuando se hace un seguimiento a los gastos, es fácil determinar cuáles de éstos, son innecesarios o cuáles se pueden reducir, por eso es indispensable conocerlos a fondo, para identificarlos y poder tomar decisiones. Por ejemplo, en los planes de telefonía celular se pueden reducir las mensualidades,  ya que por competencia algunos operadores ofrecen descuentos por planes empresariales. 
+            p Cuando se hace un seguimiento a los gastos, es fácil determinar cuáles de estos, son innecesarios o cuáles se pueden reducir, por eso es indispensable conocerlos a fondo, para identificarlos y poder tomar decisiones. Por ejemplo, en los planes de telefonía celular se pueden reducir las mensualidades,  ya que por competencia algunos operadores ofrecen descuentos por planes empresariales. 
 
       .py-4.py-md-5(titulo="Planeación" :icono="require('@/assets/curso/tema2/tab2.svg')")
         .row.justify-content-center
@@ -101,10 +101,10 @@
                 | Resolver los compromisos económicos o deudas.
               li.otrocolor 
                 i.fas.fa-angle-right
-                | Tener una buena experiencia en el pago de cuentas,
+                | Tener una buena experiencia en el pago de cuentas.
               li.otrocolor 
                 i.fas.fa-angle-right
-                | Disponer de un respaldo en caso de que se requiera comprar maquinaria o ampliación 
+                | Disponer de un respaldo en caso de que se requiera comprar maquinaria o ampliación. 
             p Ser organizado en los pagos y planearlos abre puertas a la parte financiera.        
         
       .py-4.py-md-5(titulo="Administración de recursos" :icono="require('@/assets/curso/tema2/tab3.svg')")
@@ -114,7 +114,7 @@
               img(src='@/assets/curso/tema2/imagen8.jpg')
           .col-xxl-7.col-xl-7.col-lg-7.col-md-12.mb-4.mb-md-0.ps-5.mt-4.mt-lg-0
             h4 Administración de recursos
-            p Conocer detalladamente los ingresos y gastos, permite administrar de forma adecuada los recursos priorizando las necesidades, de forma equitativa y coherente.
+            p Conocer detalladamente los ingresos y gastos, permite administrar de forma adecuada los recursos, priorizando las necesidades, de forma equitativa y coherente.
       .py-4.py-md-5(titulo="Ahorros e inversión" :icono="require('@/assets/curso/tema2/tab4.svg')")
         .row.justify-content-center
           .col-xxl-5.col-xl-5.col-lg-5.col-md-10
@@ -138,7 +138,7 @@
     .row.justify-content-center
       .col-xxl-5.col-xl-5.col-lg-5.col-md-12(data-aos="fade-down-left")
         p En este paso, los departamentos o áreas de la organización o empresa establecen el 
-          span.resaltado.text-bold “plan anual de trabajo”
+          span.resaltado.text-bold “plan anual de trabajo” 
           span y programan los rubros necesarios para el cumplimiento de sus propósitos o metas, formulan los planes y proyectos de cada departamento o área,  realizan el análisis de las ejecuciones de los años anteriores para estimar sobre cifras reales la proyección, consideran las recomendaciones de años anteriores como lecciones aprendidas,  identifican los ingresos y egresos para la operación y funcionamiento,  distribuyen los ingresos que financian los gastos necesarios para la operación de forma equilibrada; programan  los recursos durante el tiempo previsto. Finalmente, se presenta para aprobación de la junta directiva o a quien sea delegado por la empresa para tal fin.
       .col-xxl-7.col-xl-7.col-lg-7.col-md-12(data-aos="fade-down-right") 
         img(src="@/assets/curso/tema2/imagen10.jpg")
@@ -150,7 +150,7 @@
       .col-xxl-6.col-xl-6.col-lg-6.col-md-7.col-sm-10.col-10.ps-0(data-aos="fade-down-right")
         h3.mb-0.ms-0.margentitulo2 Elaboración de presupuestos
     p.mb-5(data-aos="fade-down-left") Para un agente o actor que labora en una empresa dedicada al transporte es fundamental que pueda realizar las actividades que dan origen al presupuesto, ejecutarlo y posteriormente controlarlo, por lo tanto, desde la elaboración se debe plantear correctamente para que se logre el éxito de la operación y del negocio. A continuación, se presentan los pasos más relevantes para la elaboración de un presupuesto: 
-    AcordionA(data-aos="fade-down-right").mb-5(tipo="a" clase-tarjeta="tarjeta fondo10")
+    AcordionA(data-aos="fade-down").mb-5(tipo="a" clase-tarjeta="tarjeta fondo10")
       .row(titulo="Examinar los ingresos de la operación")
         .col-md-12.mb-4.mb-md-0.ps-5
           p.ms-4 No podemos comenzar a elaborar un proyecto, sin antes tener en cuenta los ingresos que se perciben por la actividad económica que se desarrolla en la organización, esto corresponde específicamente a todo dinero que ingresa, por inversión de socios o por el mismo desarrollo de la actividad. 
@@ -158,14 +158,14 @@
           p.ms-4 Para comprender mejor el contexto se presenta la siguiente situación: 
           p.ms-4 En la Empresa “Jilk” se realizaron 500 entregas de paquetes en el sector zona centro del país, que sumaron 
             span.text-bold $4.000.000 
-            span millones de pesos. 600 paquetes en la zona norte que sumaron 
+            span de pesos. 600 paquetes en la zona norte que sumaron 
             span.text-bold $4.800.000. 
             span Además, por bodegas alquiladas en zona industrial, captaron 
             span.text-bold $5.000.000. 
             span Lograron conseguir una inversión de uno de los socios por 
             span.text-bold $25.000.000 
             span con los cuales van a hacer arreglos locativos. El total de ingresos para dicho mes es de 
-            span.text-bold $38.000.000.
+            span.text-bold $38.800.000.
           p.ms-4 Como se puede observar en el ejemplo, los ingresos no solo corresponden a la operación, sino a otras actividades que generan renta o ingresos a la empresa. Sumando este total de ingresos se conoce 
             span.text-bold el dinero disponible para el presupuesto del siguiente mes.  
       .row(titulo="Claridad en costos fijos y variables")
@@ -176,7 +176,7 @@
               img(src="@/assets/curso/tema2/fig1.svg")
             .col-md-2
               p.text-center Incluyen todos aquellos gastos en que incurre una empresa para su operación.
-          p.ms-4 Es importante que hoy en día, las empresas implementen un software que permita el seguimiento adecuado a los costos, por 
+          p.ms-4 Es importante que hoy en día, las empresas implementen un <i>software</i> que permita el seguimiento adecuado a los costos, por 
             span.text-bold “centros de costos” 
             span a medida que se van utilizando, se ingresan y se determinan por su tipo, por ejemplo: 
             span.text-bold personal, combustibles, servicios, capacitaciones.
@@ -193,7 +193,7 @@
                 .tarjeta.fondo11
                   .p-md-4.ps-0.py-4.pe-3
                     h5 Derrumbes en cierta época del año
-                    p esto genera  demoras en las entregas y es necesario trasladar la carga con ayuda de arrieros de la zona. En este caso, se conoce la temporada de lluvias y lo que ha sucedido anteriormente, esto sería un imprevisto.
+                    p Esto genera  demoras en las entregas y es necesario trasladar la carga con ayuda de arrieros de la zona. En este caso, se conoce la temporada de lluvias y lo que ha sucedido anteriormente, esto sería un imprevisto.
           p.ms-4 La suma de los imprevistos no gastados con el tiempo puede ser acumulables y se pueden utilizar como recursos para inversión o crecimiento del patrimonio.
       .row(titulo="Estado de ingresos y egresos")
         .col-md-12.mb-4.mb-md-0.ps-5
@@ -214,7 +214,7 @@
     .row.justify-content-center
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12(data-aos="fade-down-left")
         p El presupuesto deberá comenzar el día 1 de enero de cada año, para facilidades en el control y por cambios en las vigencias presupuestales. El dinero de cada año es independiente, es conveniente elaborar el plan cada año por separado. 
-        p Las personas encargadas de realizar las movidas presupuestales asignarán a cada departamento los recursos solicitados para su ejecución, y podrá hacerse de forma parcial mensual o anual. Todos los movimientos, pagos inversiones y compras deberán hacerse bajo la autorización del presupuesto anual. En caso tal de surgir cambios, deberán justificarse adecuadamente.
+        p Las personas encargadas de realizar las movidas presupuestales asignarán a cada departamento los recursos solicitados para su ejecución, y podrá hacerse de forma parcial, mensual o anual. Todos los movimientos, pagos, inversiones y compras deberán hacerse bajo la autorización del presupuesto anual. En caso tal de surgir cambios, deberán justificarse adecuadamente.
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12(data-aos="fade-down-right")
         img(src="@/assets/curso/tema2/imagen11.jpg")
     .row.justify-content-center.mt-5.ms-4.ps-4.ms-md-0.ps-md-0(data-aos="fade-down-right")
@@ -261,7 +261,7 @@
           .col-xxl-6.col-xl-6.col-lg-6.col-md-4.col-sm-4.col-5
             img(src='@/assets/curso/tema2/slider1.svg')
         p.text-bold.text-center Presupuesto de flujo de caja
-        p.text-center Es el más empleados en negocios pequeños. Se caracteriza por tener una delimitación de tiempo a un mes y se desglosan los ingresos y gastos. Sirve para comprobar si el negocio es viable o no. 
+        p.text-center Es el más empleado en negocios pequeños. Se caracteriza por tener una delimitación de tiempo a un mes y se desglosan los ingresos y gastos. Sirve para comprobar si el negocio es viable o no. 
 
       .tarjeta.fondo14.p-4.sizetarjeta.mb-3
         .row.justify-content-center.mb-3
@@ -275,7 +275,7 @@
           .col-xxl-6.col-xl-6.col-lg-6.col-md-4.col-sm-4.col-5
             img(src='@/assets/curso/tema2/slider3.svg')
         p.text-bold.text-center Presupuesto maestro
-        p.text-center Es empleado por grandes empresas, por medio de éste, se obtienen valores globales de los ítems, su planeación es anual.
+        p.text-center Es empleado por grandes empresas, por medio de este, se obtienen valores globales de los ítems, su planeación es anual.
       .tarjeta.fondo14.p-4.sizetarjeta.mb-3
         .row.justify-content-center.mb-3
           .col-xxl-6.col-xl-6.col-lg-6.col-md-4.col-sm-4.col-5

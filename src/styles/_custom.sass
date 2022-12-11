@@ -42,7 +42,9 @@
 .crd_hover_txt
   position: relative  
   padding: 0 !important
-  overflow: hidden !important  
+  overflow: hidden !important
+  @media (max-width: 380px)
+    height: 300px
   &:hover    
     .crd_hover_txt--body
       position: absolute
@@ -51,6 +53,7 @@
       transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
       transform: translateY(0)
       height: 100%
+
       @media (max-width: 1200px)
         padding: 30% 10% 40% 10%
     .nuevosize
@@ -65,6 +68,9 @@
         padding: 20% 5% 15% 5%
       @media (max-width: 450px)
         padding: 3% 5% 0 5%
+      @media (max-width: 380px)
+        padding: 2% 2% 20% 2%
+        height: 300px
     .nuevosize1
       padding: 25% 5% 15% 5%
       @media (max-width: 1200px)
@@ -77,6 +83,7 @@
         padding: 10% 5% 15% 5%
       @media (max-width: 450px)
         padding: 20% 5% 0 5%
+      
 
   .crd_hover_txt--body
     position: absolute
