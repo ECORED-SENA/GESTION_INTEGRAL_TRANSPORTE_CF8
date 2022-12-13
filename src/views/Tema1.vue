@@ -29,7 +29,7 @@
             figure
               img(src="@/assets/curso/tema1/t1a.jpg")
           .crd_hover_txt--body.text-center
-            h4.mb-3 Rama legislativa
+            h4.mb-4 Rama legislativa
             p.mb-0 Mediante la publicación de leyes, decretos y normas que rijan o prohíban algún tipo de comportamiento.
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-4.mb-xxl-4(data-aos="flip-left")
         .crd_hover_txt
@@ -37,7 +37,7 @@
             figure
               img(src="@/assets/curso/tema1/t2a.jpg")
           .crd_hover_txt--body.text-center
-            h4.mb-3 Rama judicial
+            h4.mb-4 Rama judicial
             p.mb-0 Mediante sentencias o jurisprudencia sobre casos particulares que hayan llegado a esa instancia.
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-4.mb-xxl-4(data-aos="flip-left")
         .crd_hover_txt
@@ -45,7 +45,7 @@
             figure
               img(src="@/assets/curso/tema1/t3a.jpg")
           .crd_hover_txt--body.text-center
-            h4.mb-3Rama Rama ejecutiva
+            h4.mb-4 Rama Rama ejecutiva
             p.mb-0.me-5 Mediante la aplicación de políticas macroeconómicas, fiscales o monetarias.
       .row.justify-content-center.mt-5
         .col-xxl-10.col-xl-10.col-lg-10.col-md-12.fondo1
@@ -108,7 +108,7 @@
               img(src='@/assets/curso/tema1/imagen5.jpg')
           .col-xl-6
             h4 Estructura de costo de operación
-            p Se tienen presentes los costos de las variables de operación  como: combustibles, lubricantes, llantas, salarios y prestaciones, servicios, mantenimientos; Los costos fijos como la administración, rodamientos, impuestos, parqueadero y seguros.
+            p Se tienen presentes los costos de las variables de operación  como: combustibles, lubricantes, llantas, salarios y prestaciones, servicios, mantenimientos; los costos fijos como la administración, rodamientos, impuestos, parqueadero y seguros.
             p Finalmente, el capital que genere rentabilidad. 
       
       .tarjeta.fondo22.px-4.pt-4(titulo="Tipo de vehículo")

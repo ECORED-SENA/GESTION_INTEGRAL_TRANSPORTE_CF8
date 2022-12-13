@@ -157,8 +157,8 @@
           p.ms-4 Se sugiere que este control se haga mensualmente para que sean la base de las proyecciones siguientes, que son el presupuesto.
           p.ms-4 Para comprender mejor el contexto se presenta la siguiente situación: 
           p.ms-4 En la Empresa “Jilk” se realizaron 500 entregas de paquetes en el sector zona centro del país, que sumaron 
-            span.text-bold $4.000.000 
-            span de pesos. 600 paquetes en la zona norte que sumaron 
+            span.text-bold $4.000.000
+            span . 600 paquetes en la zona norte que sumaron 
             span.text-bold $4.800.000. 
             span Además, por bodegas alquiladas en zona industrial, captaron 
             span.text-bold $5.000.000. 

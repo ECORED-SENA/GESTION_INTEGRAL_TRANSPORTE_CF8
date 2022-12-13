@@ -58,7 +58,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Tarifas del transporte nacionales',
+            titulo: 'Tarifas del transporte nacional',
             hash: 'tarifasnal',
           },
           {
